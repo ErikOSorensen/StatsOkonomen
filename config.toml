@@ -10,18 +10,21 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "Erik Ø. Sørensen"
     url = "/about/"
+    weight = 10
 [[menu.main]]
     name = "CV"
     url = "/erik-o-sorensen-cv/"
+    weight = 20
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/ErikOSorensen"
+    weight = 40
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/ErikOSorensen"
-
+    weight = 30
 [params]
     description = "A website built through Hugo and blogdown."
 

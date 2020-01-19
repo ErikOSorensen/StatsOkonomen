@@ -2,7 +2,7 @@
 title: "Vitae - Erik Ø. Sørensen"
 author: "Erik Ø. Sørensen"
 date: "2020-01-19"
-output: html_document
+output: html_document 
 ---
 
 # Current positions
