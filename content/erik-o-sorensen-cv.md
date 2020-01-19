@@ -12,7 +12,7 @@ output: html_document
 
 ## Past positions
 
-- Professor II (part-time) at the Department of Economics, University of Oslo, member of the center for Equality, Social Organization, and Performance (2009-2016).
+- Professor II (part-time) at the Department of Economics, University of Oslo, member of the center for [Equality, Social Organization, and Performance](https://www.sv.uio.no/esop/english/) (2009-2016).
 - Associate professor of economics at the Department of Economics, NHH Norwegian School of Economics (2009-2012).
 - Post.doc at the EU-RTN Microdata, Department of Economics, VU University Amsterdam (Feb 2007-Feb 2009).
 - Juniorprofessor für Angewandte Ökonometrie, Department of Economics, University of Mannheim (Aug 2006-Feb 2007).
