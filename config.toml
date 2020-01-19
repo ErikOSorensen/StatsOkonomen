@@ -13,10 +13,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Erik Ø. Sørensen"
     url = "/about/"
     weight = 10
+
 [[menu.main]]
     name = "CV"
     url = "/erik-o-sorensen-cv/"
     weight = 20
+
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/ErikOSorensen"
@@ -41,7 +43,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "Statsokonomen.png"
     width = 50
     height = 50
     alt = "Logo"
