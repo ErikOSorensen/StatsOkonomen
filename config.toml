@@ -27,6 +27,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Twitter"
     url = "https://twitter.com/ErikOSorensen"
     weight = 30
+[[menu.main]]
+    name = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=vV3i8C3IPygC&hl=en"
+    weight = 50
 [params]
     description = "A website built through Hugo and blogdown."
 
