@@ -82,7 +82,7 @@ formal notation than new students traditionally have been familiar with.
     - Expectations, including moment generating functions
     - Transformations
 3. Random vectors
-    - Generalizations to more dimensions (mostly two for the general case)
+    - Generalizations to more dimensions (for the general case, mostly two dimensions)
     - Independence and random n-samples.
 4. Estimation
     - The analog principle
