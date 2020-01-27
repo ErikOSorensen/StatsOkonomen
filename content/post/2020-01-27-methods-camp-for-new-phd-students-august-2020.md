@@ -30,7 +30,7 @@ some of you will be seeing this material for the first time. My main goal with
 the class is to make everyone comfortable with: (1) the basic mathematical tools
 we use in economic theory, and (2) constructing simple proofs. I am assuming
 everyone is familiar with basic calculus (derivatives and integrals), and this course
-will focus on giving you “deeper” conceptual insight into math.
+will focus on giving you "deeper" conceptual insight into math.
 
 **Textbook**: The main textbook is Carl P. Simon and Lawrence Blume, 
 "Mathematics for Economists", Norton 1994. However, this book is more of a reference
@@ -39,9 +39,9 @@ something is new to you, the best way to learn is by doing problems!
 
 Some other standard textbooks in Mathematical Economics: Alpha C. Chiang,
 "Fundamental Methods of Mathematical Economics", McGraw Hill, 1983. Walter
-Rudin, "Principles of Mathematical Analysis"", McGraw Hill. A. MasCollel, M.D.
-Whinston, and J.R. Green, “Microeconomic Theory” (math appendix). A more ad-
-1vanced books: Rakesh V. Vohra, "Advanced mathematical economics", Routledge,
+Rudin, "Principles of Mathematical Analysis", McGraw Hill. A. MasCollel, M.D.
+Whinston, and J.R. Green, "Microeconomic Theory" (math appendix). A more 
+advanced books: Rakesh V. Vohra, "Advanced mathematical economics", Routledge,
 2005. A.N. Kolmogorov, "Introductory Real Analysis", Courier Dover 
 Publications, 1975. A more dense, dictionary like book: Knut Sydsæter, Arne Strøm,
 Peter Berck, "Economists’ Mathematical Manual", Springer 1999.
