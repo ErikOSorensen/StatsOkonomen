@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Computer Friday is a new regular event at FAIR: Every Friday, starting at 1400, 
+Computer Friday is a new regular event at FAIR: Every Friday at 1400, 
 all FAIR members and guests are invited to join for a workshop and/or lecture
 that is intended to develop functional literacy with both specific and general
 purpose computer technologies. The specific lectures and workshops will introduce
