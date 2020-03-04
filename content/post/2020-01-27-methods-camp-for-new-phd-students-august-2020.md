@@ -18,11 +18,14 @@ to sit a 3 hour exam immediately after the camp in order to evaluate if some fur
 tutoring is necessary. 
 
 
+
+
 # Math part 
 
 - Instructor: Justin Valasek
 - email: <justin.valasek@nhh.no>
 - office: D222
+- lectures: Week 33 (Aug 10--14), 1015-1200 and 1415-1600 in Karl Borch (all days).
 
 ## Outline
 For some of you this will be a review (again, the course is not mandatory), and
@@ -64,6 +67,7 @@ Peter Berck, "Economists’ Mathematical Manual", Springer 1999.
 - Instructor: Erik Ø. Sørensen
 - email: <erik.sorensen@nhh.no>
 - office E228
+- lectures: Week 34 (Aug 17--21), 1015-1200 and 1415-1600 in Karl Borch (all days).
 
 ## Outline
 The plan is to go through all of the basics of probability and statistics - not to introduce
