@@ -37,6 +37,6 @@ the most interest in experimenting with the newly introduced topic can stay on.
 # Participation
 The plan is not to start a cult. People should feel free to join for the meetings
 that they find useful. A program for the meeting of the week will be posted to my
-website [statsokonomen.no](statsokonomen.no) on Wednesdays. 
+website [statsokonomen.no](https://statsokonomen.no/) on Wednesdays. 
 When I see how things develop, I'll try to also sketch a program for the semester. 
 
