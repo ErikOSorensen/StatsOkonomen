@@ -15,7 +15,6 @@ to cover for this part of the course.
 For readings not linked to below, I'll do my best to make the 
 readings available at the start of the course. 
 
-
 1. **The ethics of research and policy advice**
     - [National guidelines for research ethics in the social sciences, law and humanities.](https://www.etikkom.no/en/ethical-guidelines-for-research/guidelines-for-research-ethics-in-the-social-sciences--humanities-law-and-theology/)
 2. **Economists making things happen**
@@ -25,19 +24,18 @@ readings available at the start of the course.
     - Luigi Zingales (2013). [Preventing Economists’ Capture](http://faculty.chicagobooth.edu/luigi.zingales/papers/research/Preventing_Economists_Capture.pdf). In **Preventing Regulatory Capture: Special Interest Influence and How to Limit it**. Edited by Daniel Carpenter and David Moss.
 3. **The history of a scientific subject** These readings are not selected
 only for their contents, but for the different approaches to writing intellectual history they represent.
-    -  Card, David, and Stefano DellaVigna. 2013. [Nine Facts about Top Journals in Economics](https://www.jstor.org/stable/23644706
-). Journal of Economic Literature, 51 (1): 144-61.
+    -  Card, David, and Stefano DellaVigna. 2013. [Nine Facts about Top Journals in Economics](https://www.jstor.org/stable/23644706). Journal of Economic Literature, 51 (1): 144-61.
     - B. F. Kiker (1966). [The Historical Roots of the Concept of Human Capital](https://doi.org/10.1086/259201), Journal of Political Economy, 74(5), 481-499.
     - Donald MacKenzie (2001). [Physics and Finance: S-Terms and Modern Finance as a Topic for Science Studies](https://doi.org/10.1177%2F016224390102600201), Science, Technology, & Human Values, 26(2), 115-144.
     - Montesinos, Hugo & Brice, Brandon. (2019). [The Era of Evidence](https://www.researchgate.net/publication/318600096_The_Era_of_Evidence). 
-    
 4. **The social science of science**
     - Brian Robinson, Chad Gonnerman, and Michael O’Rourke (2019). [Experimental Philosophy of Science and Philosophical Differences across the Sciences](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/703553). Philosophy of Science, 86(3): 551-576.
     - Fourcade, Marion, Etienne Ollion, and Yann Algan (2015). [The Superiority of Economists](https://www.aeaweb.org/articles?id=10.1257/jep.29.1.89). Journal of Economic Perspectives, 29(1): 89-114.
+    - John Gibson (2018). [The Micro-Geography of Academic Research: How Distinctive is Economics?](ftp://wms-webappsprod.mngt.waikato.ac.nz/RePEc/wai/econwp/1803.pdf), Working Papers in Economics 18/03, University of Waikato.
     -  Conley, John P., and Ali Sina Onder (2014). [The Research Productivity of New PhDs in Economics: The Surprisingly High Non-success of the Successful](https://www.aeaweb.org/articles?id=10.1257/jep.28.3.205). Journal of Economic Perspectives, 28(3): 205-16.
-    - Paula E. Stephan (1996). [The Economics of Science](https://www.jstor.org/stable/2729500), Journal of Economic Literature, 34(3), 1119-1235.
     - Arjo Klamer (2014). The culture of academic economics. In **The Economics of Economists: Institutional Setting, Individual Incentives and Future Prospects**. Edited by A. Lanteri and J. Vromen. Cambridge University Press.
     - Sarsons, Heather. 2017. [Recognition for Group Work: Gender Differences in Academia](https://www.aeaweb.org/articles?id=10.1257/aer.p20171126). American Economic Review, 107(5): 141-45.
+
 5. **Non-orthodox traditions**
     - Tony Lawson (2006). [The nature of heterodox economics](https://academic.oup.com/cje/article/30/4/483/1713645). Cambridge Journal of Economics, 30(4), 483-505.
     - Yannick Slade-Caffarel (2018). [The nature of heterodox economics revisited](https://doi.org/10.1093/cje/bey043). Cambridge Journal of Economics, 43(3): 527–539.
