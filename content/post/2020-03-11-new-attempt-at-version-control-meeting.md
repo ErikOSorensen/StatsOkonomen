@@ -7,6 +7,7 @@ categories: []
 tags: []
 ---
 
+**CANCELLED BECAUSE OF CORONA VIRUS CONCERNS!**
 Last Friday we had some technical issues. We won't let that hold us back, and there will be a new 
 attempt on Friday March 13 -- in FAIR-1. The topic of the day
 will be **version control**, in particular the subversion system that Choice Lab researchers
