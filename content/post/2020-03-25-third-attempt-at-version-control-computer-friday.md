@@ -33,12 +33,12 @@ collaborative repositories to hold research project content.
 
 # Before the meeting
 If you want to join the practice session, you need to have a subversion client installed
-on your computer. 
+on your computer.
 
 If you have a windows computer, the client you want is most likely 
 [Tortoise SVN](https://tortoisesvn.net/). If you don't have administrative rights, 
 you probably need to ask IT services for help installing it. I've been in contact with
-[Tor, at IT Services](https://www.nhh.no/ansatte/tor-christian-nitter-steen/), 
+[Tor Steen, at IT Services](https://www.nhh.no/ansatte/tor-christian-nitter-steen/), 
 and if you get in touch with him, he is prepared to install the software you need (he'll
 log into your windows computer remotely using "Quick Assist"). 
 
