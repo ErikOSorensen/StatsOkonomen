@@ -10,7 +10,8 @@ tags: []
 The Corona virus will be with us for some time to come. We cannot let it stop us 
 from getting going with Computer Friday. Friday March 27 we'll attempt an online
 workshop. Given the success of the first online Choice Lab coffee meeting, 
-the plan is to run it through *Microsoft Teams*. 
+the plan is to run it through *Microsoft Teams*, at 1400. I'll arrange that you get an
+invitation to a meeting you can click on. 
 The topic of the day will be **version control**, in particular the 
 subversion system that Choice Lab researchers have been using since 2007. 
 
