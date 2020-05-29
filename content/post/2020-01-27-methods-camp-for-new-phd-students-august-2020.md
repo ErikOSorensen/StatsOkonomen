@@ -17,7 +17,9 @@ Participation in the Methods Camp is voluntary, but all economics students are e
 to sit a 3 hour exam immediately after the camp in order to evaluate if some further
 tutoring is necessary. 
 
-
+If you plan to take part in this course, please [fill out this brief survey](https://forms.gle/tC6GcUoCH7s9Yb2M8) such
+that we know a bit about how many students there will be and something about your background. Looking forward
+to see you in August!
 
 
 # Math part 
