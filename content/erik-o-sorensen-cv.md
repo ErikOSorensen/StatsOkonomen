@@ -24,7 +24,7 @@ N-5045 Bergen, Norway. Mobile: (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 # Publications
 
 - [You’ve got mail: A randomized field experiment on tax evasion](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3390). With Kristina Bott, Alexander W. Cappelen, and Bertil Tungodden. Forthcoming in **Management Science**.
-- [Teaching through television: Experimental evidence on entrepreneurship education in Tanzania](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3321). With Kjetil Bjorvatn, Alexander W. Cappelen, Linda Helgesson Sekei and Bertil Tungodden. Forthcoming in **Management Science**.
+- [Teaching through television: Experimental evidence on entrepreneurship education in Tanzania](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3321). With Kjetil Bjorvatn, Alexander W. Cappelen, Linda Helgesson Sekei and Bertil Tungodden. Published in **Management Science**, 66(6), 2308-2325, 2020.
 - [Fairness in bankruptcies: an experimental study](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3029). With Alexander W. Cappelen, Roland I. Luttens and Bertil Tungodden. Published in **Management Science**, 65(6), 2832-2841. 2019.
 - [The Effect of Fast and Slow Decisions on Financial Risk Taking](https://doi.org/10.1007/s11166-017-9252-4). With Michael Kirchler, David Andersson, Caroline Bonn, Magnus Johannesson, Matthias Stefan, Gustav Tinghög, and Daniel Västfjell. Published in **Journal of Risk and Uncertainty**, 54(1), 37-59. 2017
 - [Face-saving or fair-minded: What motivates moral behavior?](https://doi.org/10.1093/jeea/jvw014) With Alexander W. Cappelen, Trond Halvorsen and Bertil Tungodden.  Published in **Journal of the European Economic Association**, 15(3), 540-557. 2017.
