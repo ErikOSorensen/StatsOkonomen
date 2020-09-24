@@ -1,14 +1,14 @@
 ---
 title: "Vitae - Erik Ø. Sørensen"
 author: "Erik Ø. Sørensen"
-date: "2020-01-19"
+date: "2020-09-24"
 output: html_document 
 ---
 
 # Current positions
 
 - Professor of economics at the [Department of Economics, NHH Norwegian School of Economics](https://www.nhh.no/en/departments/economics/), (co-)Principal Investigator at [Centre for Experimental Research on Fairness, Inequality, and Rationality (FAIR)](https://www.nhh.no/en/research-centres/fair/).
-- [Member of Teknisk beregningsutvalg for klima](https://www.regjeringen.no/no/dep/kld/organisasjon/styrer-rad-og-utvalg/teknisk-beregningsutvalg-for-klima/), a Norwegian public commission on climate accounting.
+- Member of [Teknisk beregningsutvalg for klima](https://www.regjeringen.no/no/dep/kld/organisasjon/styrer-rad-og-utvalg/teknisk-beregningsutvalg-for-klima/), a Norwegian public commission on climate policy evaluation.
 
 ## Past positions
 
@@ -22,8 +22,9 @@ Department of Economics, NHH Norwegian School of Economics, Helleveien 30,
 N-5045 Bergen, Norway. Mobile: (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 # Publications
-
-- [You’ve got mail: A randomized field experiment on tax evasion](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3390). With Kristina Bott, Alexander W. Cappelen, and Bertil Tungodden. Forthcoming in **Management Science**.
+- Choice and personal responsibility: What is a morally relevant choice? With Alexander W. Cappelen, Sebastian Fest
+and Bertil Tungodden. Forthcoming in **Review of Economics and Statistics**.
+- [You’ve got mail: A randomized field experiment on tax evasion](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3390). With Kristina Bott, Alexander W. Cappelen, and Bertil Tungodden. Published in **Management Science**. 66(7), 2801–2819, 2020.
 - [Teaching through television: Experimental evidence on entrepreneurship education in Tanzania](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3321). With Kjetil Bjorvatn, Alexander W. Cappelen, Linda Helgesson Sekei and Bertil Tungodden. Published in **Management Science**, 66(6), 2308-2325, 2020.
 - [Fairness in bankruptcies: an experimental study](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3029). With Alexander W. Cappelen, Roland I. Luttens and Bertil Tungodden. Published in **Management Science**, 65(6), 2832-2841. 2019.
 - [The Effect of Fast and Slow Decisions on Financial Risk Taking](https://doi.org/10.1007/s11166-017-9252-4). With Michael Kirchler, David Andersson, Caroline Bonn, Magnus Johannesson, Matthias Stefan, Gustav Tinghög, and Daniel Västfjell. Published in **Journal of Risk and Uncertainty**, 54(1), 37-59. 2017
