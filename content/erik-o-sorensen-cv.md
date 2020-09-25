@@ -22,8 +22,7 @@ Department of Economics, NHH Norwegian School of Economics, Helleveien 30,
 N-5045 Bergen, Norway. Mobile: (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 # Publications
-- Choice and personal responsibility: What is a morally relevant choice? With Alexander W. Cappelen, Sebastian Fest
-and Bertil Tungodden. Forthcoming in **Review of Economics and Statistics**.
+- Choice and personal responsibility: What is a morally relevant choice? With Alexander W. Cappelen, Sebastian Fest, and Bertil Tungodden. Forthcoming in **Review of Economics and Statistics**.
 - [You’ve got mail: A randomized field experiment on tax evasion](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3390). With Kristina Bott, Alexander W. Cappelen, and Bertil Tungodden. Published in **Management Science**. 66(7), 2801–2819, 2020.
 - [Teaching through television: Experimental evidence on entrepreneurship education in Tanzania](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3321). With Kjetil Bjorvatn, Alexander W. Cappelen, Linda Helgesson Sekei and Bertil Tungodden. Published in **Management Science**, 66(6), 2308-2325, 2020.
 - [Fairness in bankruptcies: an experimental study](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3029). With Alexander W. Cappelen, Roland I. Luttens and Bertil Tungodden. Published in **Management Science**, 65(6), 2832-2841. 2019.
