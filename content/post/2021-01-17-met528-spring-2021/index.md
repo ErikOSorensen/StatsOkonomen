@@ -35,13 +35,15 @@ kept in place, we might need to organize sessions via Zoom or some such technolo
 # Requirements for course credits
 
 - Active participation in class in both parts of the course.
-- Because of the Covid circumstances, this year (like last), a term-paper will be the final exam. Each participant submits an individual term-paper for evaluation, on a topic they choose themselves but which is approved by the lecturer by March 1st. Students then have 14 weeks to work on the paper.
+- Because of the Covid circumstances, this year (like last), a term-paper will be the final exam. 
+
+
+## The term paper
+Each participant submits an individual term-paper for evaluation, on a topic they choose themselves but which is approved by the lecturer by March 1st. Students then have 14 weeks to work on the paper. I believe 10-15 pages in total should be sufficient to get the point across for everyone, but there is no hard upper or lower limit to what I’ll accept.
 
 Term-papers will be read under the presumption that the author is aware of the basic rules of academic riting (see for instance [Booth, Williams and Colomb (2003), The Craft of Research](https://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065685)). 
 
 I also have some stylistic demands: Paper to be submitted as a pdf file in a 10-12 pt serif font (preferably Times or something similar), with a4 paper size, 1 inch margins, with extra first-line indents and no extra vertical space between paragraphs, left- and right justified, and with a line-spacing slightly larger than unity. I also advocate everyone to have a look at [Butterick's Practical Typography](https://practicaltypography.com/). There should be a 100-150 word abstract. 
-
-I believe 10-15 pages in total should be sufficient to get the point across for everyone, but there is no hard upper or lower limit to what I’ll accept.
 
 Everyone should make a short presentation on a proposal for the term-paper in the last lecture before the course ends.
 
