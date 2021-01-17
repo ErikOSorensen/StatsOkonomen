@@ -35,9 +35,7 @@ kept in place, we might need to organize sessions via Zoom or some such technolo
 # Requirements for course credits
 
 - Active participation in class in both parts of the course.
-- Because of the Covid circumstances, this year (like last), the term-paper will be the final exam. The deadline will be announced later, but I expect it to be mid-June or thereabouts. 
-
-# The term paper
+- Because of the Covid circumstances, this year (like last), a term-paper will be the final exam. Each participant submits an individual term-paper for evaluation, on a topic they choose themselves but which is approved by the lecturer by March 1st. Students then have 14 weeks to work on the paper.
 
 Term-papers will be read under the presumption that the author is aware of the basic rules of academic riting (see for instance [Booth, Williams and Colomb (2003), The Craft of Research](https://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065685)). 
 
