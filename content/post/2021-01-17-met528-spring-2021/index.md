@@ -13,18 +13,24 @@ The aim is that students should know and discuss the most common   arguments mad
 
 # Lectures
 
-The initial plan is to hold the lectures at NHH. If the Covid restrictions are
-kept in place, we might need to organize sessions via Zoom or some such technology. 
+The initial plan was to hold the lectures at NHH. As of Monday January 25th,
+the national Covid-situation does not seem entirely stable, and I know there
+will be students in quarantine, and I've decided that the first week will be
+all-digital. If you haven't heard from me with zoom-details and such by Sunday
+evening (Jan 31), send me an email!
+
 
 ## Week 1:
 
-- Monday, Feb 1: 1015-1200 in Karl Borch.
-- Tuesday, Feb 2: 1015-1200 in Karl Borch.
-- Wednesday, Feb 3: 1415-1600 in Karl Borch.
-- Thursday, Feb 4: 1015-1200 in Karl Borch.
-- Friday, Feb 5: 1215-1400 in Karl Borch.
+- Monday, Feb 1: 1015-1200, Zoom.
+- Tuesday, Feb 2: 1015-1200, Zoom.
+- Wednesday, Feb 3: 1415-1600, Zoom.
+- Thursday, Feb 4: 1015-1200, Zoom.
+- Friday, Feb 5: 1215-1400, Zoom.
 
 ## Week 2: 
+
+I still hope that we can meet in person in March:
 
 - Monday, Mar 15: 1015-1200 in Karl Borch.
 - Tuesday, Mar 16: 1015-1200 in Karl Borch.
