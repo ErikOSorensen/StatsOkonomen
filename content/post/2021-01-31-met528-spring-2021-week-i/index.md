@@ -16,7 +16,7 @@ For readings not linked to below, I'll do my best to make the
 readings available at the start of the course. 
 
 
-1. **Why do we need a philosophy of science?** The practical and political problem of Demarcation, and the proposed solution of Karl Popper.
+1. **Why do we need a philosophy of science?** The practical and political problem of "demarcation."
     - Ben Goldacre (2008). "The Doctor will sue you now", Chapter 10 in **Bad Science**.
     - Alan Sokal (1996). [Transgressing the boundaries: Toward a transformative hermenutics of quantum gravity](https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html). Social Text 46/47: 217-252.
     - Alan Sokal (1996). [Transgressing the Boundaries: An Afterword](http://www.physics.nyu.edu/faculty/sokal/afterword_v1a/afterword_v1a_singlefile.html). Dissent 43(4): 93-99.
