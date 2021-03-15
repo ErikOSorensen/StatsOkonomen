@@ -29,6 +29,7 @@ only for their contents, but for the different approaches to writing intellectua
     - B. F. Kiker (1966). [The Historical Roots of the Concept of Human Capital](https://doi.org/10.1086/259201), Journal of Political Economy, 74(5), 481-499.
     - Donald MacKenzie (2001). [Physics and Finance: S-Terms and Modern Finance as a Topic for Science Studies](https://doi.org/10.1177%2F016224390102600201), Science, Technology, & Human Values, 26(2), 115-144.
     -  Montesinos, Hugo & Brice, Brandon. (2019). [The Era of Evidence](https://www.researchgate.net/publication/318600096_The_Era_of_Evidence). 
+    - Schwalbe, Ulrich and Paul Walker (2001). [Zermelo and the Early History of Game Theory](https://doi.org/10.1006/game.2000.0794) Games and Economic Behavior, 34(1), 123-137.
 3. **The social science of science**
     -  Fourcade, Marion, Etienne Ollion, and Yann Algan (2015). [The Superiority of Economists](https://www.aeaweb.org/articles?id=10.1257/jep.29.1.89). Journal of Economic Perspectives, 29(1): 89-114.
     -  John Gibson (2018). [The Micro-Geography of Academic Research: How Distinctive is Economics?](ftp://wms-webappsprod.mngt.waikato.ac.nz/RePEc/wai/econwp/1803.pdf), Working Papers in Economics 18/03, University of Waikato.
