@@ -32,11 +32,11 @@ evening (Jan 31), send me an email!
 
 I still hope that we can meet in person in March:
 
-- Monday, Mar 15: 1015-1200 in Karl Borch.
-- Tuesday, Mar 16: 1015-1200 in Karl Borch.
-- Wednesday, Mar 17: 1415-1600 in Karl Borch.
-- Thursday, Mar 18: 1015-1200 in Karl Borch.
-- Friday, Mar 19: 1215-1400 in Karl Borch.
+- Monday, Mar 15: 1015-1200, Zoom.
+- Tuesday, Mar 16: 1015-1200, Zoom.
+- Wednesday, Mar 17: 1415-1600, Zoom.
+- Thursday, Mar 18: 1317-1500, Zoom. **Note change of time!**
+- Friday, Mar 19: 1215-1400, Zoom.
 
 # Requirements for course credits
 

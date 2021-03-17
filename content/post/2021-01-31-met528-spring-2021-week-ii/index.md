@@ -7,7 +7,10 @@ categories: []
 tags: []
 ---
 
-**As of Jan 31: To be completed!**
+Reading list completed March 14, 2021. 
+
+Note: Thursday March 18 we meet 1317-1500 instead of the formerly advertised 1015-1200 (so as not
+to crash with micro). 
 
 # Topics and readings
 
