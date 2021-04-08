@@ -1,7 +1,7 @@
 ---
 title: "Vitae - Erik Ø. Sørensen"
 author: "Erik Ø. Sørensen"
-date: "2020-09-24"
+date: "2021-04-08"
 output: html_document 
 ---
 
