@@ -1,7 +1,7 @@
 ---
 title: Methods Camp for new PhD students (August 2021)
 author: Erik
-date: '2021-02-21'
+date: '2021-06-22'
 slug: methods-camp-for-new-phd-students-august-2021
 categories: []
 tags: []
@@ -28,7 +28,7 @@ to see you in August!
 - Instructor: Justin Valasek
 - email: <justin.valasek@nhh.no>
 - office: D222
-- lectures: Week 33 (Aug 16--20), 1015-1200 and 1415-1600 in Karl Borch (all days).
+- lectures: Week 33 (Aug 16--20), 1015-1200 and 1415-1600 in Karl Borch, all days. **Exception**: Because of the information meeting for new PhD students there is no 1415 session on Friday (Aug 20).
 
 ## Outline
 For some of you this will be a review (again, the course is not mandatory), and
