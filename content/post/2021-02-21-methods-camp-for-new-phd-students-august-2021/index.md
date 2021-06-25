@@ -1,12 +1,13 @@
 ---
 title: Methods Camp for new PhD students (August 2021)
 author: Erik
-date: '2021-06-22'
+date: '2021-02-21'
 slug: methods-camp-for-new-phd-students-august-2021
 categories: []
 tags: []
 ---
 
+*Last updated June 25, 2021.*
 
 Methods Camp is a two-week intensive course to get all incoming PhD students
 in economics to ensure that everyone are familiar with some technical
