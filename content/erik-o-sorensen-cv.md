@@ -1,7 +1,7 @@
 ---
-title: "Vitae - Erik Ø. Sørensen"
+title: "Vitae and papers - Erik Ø. Sørensen"
 author: "Erik Ø. Sørensen"
-date: "2021-04-08"
+date: "2021-11-09"
 output: html_document 
 ---
 
@@ -9,6 +9,7 @@ output: html_document
 
 - Professor of economics at the [Department of Economics, NHH Norwegian School of Economics](https://www.nhh.no/en/departments/economics/), (co-)Principal Investigator at [Centre for Experimental Research on Fairness, Inequality, and Rationality (FAIR)](https://www.nhh.no/en/research-centres/fair/).
 - Member of [Teknisk beregningsutvalg for klima](https://www.regjeringen.no/no/dep/kld/organisasjon/styrer-rad-og-utvalg/teknisk-beregningsutvalg-for-klima/), a Norwegian public commission on climate policy evaluation.
+- Member of public commision to give advice on FAIR data infrastructure in Norway. 
 
 ## Past positions
 
@@ -28,13 +29,13 @@ N-5045 Bergen, Norway. Mobile: (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 - [Teaching through television: Experimental evidence on entrepreneurship education in Tanzania](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3321). With Kjetil Bjorvatn, Alexander W. Cappelen, Linda Helgesson Sekei and Bertil Tungodden. Published in **Management Science**, 66(6), 2308-2325, 2020.
 - [Fairness in bankruptcies: an experimental study](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3029). With Alexander W. Cappelen, Roland I. Luttens and Bertil Tungodden. Published in **Management Science**, 65(6), 2832-2841. 2019.
 - [The Effect of Fast and Slow Decisions on Financial Risk Taking](https://doi.org/10.1007/s11166-017-9252-4). With Michael Kirchler, David Andersson, Caroline Bonn, Magnus Johannesson, Matthias Stefan, Gustav Tinghög, and Daniel Västfjell. Published in **Journal of Risk and Uncertainty**, 54(1), 37-59. 2017
-- [Face-saving or fair-minded: What motivates moral behavior?](https://doi.org/10.1093/jeea/jvw014) With Alexander W. Cappelen, Trond Halvorsen and Bertil Tungodden.  Published in **Journal of the European Economic Association**, 15(3), 540-557. 2017.
+- [Face-saving or fair-minded: What motivates moral behavior?](https://doi.org/10.1093/jeea/jvw014) With Alexander W. Cappelen, Trond Halvorsen and Bertil Tungodden.  Published in **Journal of the European Economic Association**, 15(3), 540-557. 2017. Data and SI: (https://doi.org/10.7910/DVN/MGI9KA)
 - [Fairness and family background](https://doi.org/10.1177%2F1470594X15618966). With Ingvild Almås, Alexander W. Cappelen, Kjell G. Salvanes and Bertil Tungodden. Published in **Politics, Philosophy & Economics**, 16(2), 117-131. 2017.
 - [Willingness to compete: Family matters](https://pubsonline.informs.org/doi/10.1287/mnsc.2015.2244). With Ingvild Almås, Alexander W. Cappelen, Kjell G. Salvanes and Bertil Tungodden. Published in **Management Science**, 62(8), 2149-2162. 2016.
 - [Leadership and incentives](https://doi.org/10.1287/mnsc.2015.2225). With Alexander W. Cappelen, Bjørn-Atle Reme and Bertil Tungodden. Published in **Management Science**, 62(7), 1944-1953. 2016
 - [What explains the gender gap in college track dropout? Experimental and administrative evidence](https://www.aeaweb.org/articles?id=10.1257/aer.p20161075). With  Ingvild Almås,  Alexander W. Cappelen, Kjell G. Salvanes and Bertil Tungodden. Published in **American Economic Review (papers and proceedings)**, 106(5), 296-302. 2016.
 - [Good Skills in Bad Times: Cyclical Skill Mismatch and the Long-term Effects of Graduating in a Recession](https://doi.org/10.1016/j.euroecorev.2015.08.015). With Kai Liu and Kjell G. Salvanes. Published in **European Economic Review**, 84(1), 3-17, 2016.
-- [Luck, Choice and Responsibility An experimental study of fairness views](https://doi.org/10.1016/j.jpubeco.2015.08.010). With Johanna Mollerstrom and Bjørn-Atle Reme. Published in **Journal of Public Economics**, 113, 33-40. 2015. Github repo: (https://github.com/ErikOSorensen/luck-and-choice)
+- [Luck, Choice and Responsibility An experimental study of fairness views](https://doi.org/10.1016/j.jpubeco.2015.08.010). With Johanna Mollerstrom and Bjørn-Atle Reme. Published in **Journal of Public Economics**, 113, 33-40. 2015. Replication package: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5658119.svg)](https://doi.org/10.5281/zenodo.5658119)
 - [Social preferences in the lab: A comparison of students and a representative population](https://doi.org/10.1111/sjoe.12114). With Alexander W. Cappelen, Knut Nygaard and Bertil Tungodden. Published in **Scandinavian Journal of Economics**, 117(4), 1306-1326. 2015.
 - [Equity theory and fair inequality: A neuroeconomic study](https://doi.org/10.1073/pnas.1414602111). With  Alexander W. Cappelen, Tom Eichele, Kenneth Hugdahl, Karsten Specht, and Bertil Tungodden. Published in **Proceedings of the National Academy of Sciences**, 111(43), 15368–15372. 2014.
 - [Bad times at a tender age – how education dampens the impact of graduating in a recession](https://www.stjornarradid.is/media/fjarmalaraduneyti-media/media/frettir/Nordic-Policy-Review-Consequences-of-Youth-Unemployment.pdf). With Kai Liu and Kjell G. Salvanes. Published in **Nordic Economic Policy Review**, 2014, 51-73.
