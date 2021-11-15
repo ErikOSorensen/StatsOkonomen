@@ -38,7 +38,8 @@ structure of data changes just before submission.
 ## Tools
 There are tools that can help with documentation of data according to recognized standards. In social science,
 an important set of standards are provided by the [Data Documentation Initiative (DDI)](https://ddialliance.org/). 
-Tool providers are
+Tool providers are:
+
 - [Nesstar Publisher](http://www.nesstar.com/software/publisher.html): This is a tool that [NSD - Norwegian centre for research data](http://www.nesstar.com/software/publisher.html) has developed and use in their own archiving services. This tool can also ingest Stata data files and
   use labels. The Stata files must have been saved with `saveold XX, version(11)` to be ingestible. Produces a nice pdf output and a DDI-Codebook `.xml` file. Windows software. Free for use, and each researcher can use it.
 - [Colectica](https://colectica.com/): A commercial enterprise that sells both lightweight [Colectica for Excel](https://colectica.com/software/colecticaforexcel/)
