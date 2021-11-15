@@ -41,7 +41,8 @@ an important set of standards are provided by the [Data Documentation Initiative
 Tool providers are:
 
 - [Nesstar Publisher](http://www.nesstar.com/software/publisher.html): This is a tool that [NSD - Norwegian centre for research data](http://www.nesstar.com/software/publisher.html) has developed and use in their own archiving services. This tool can also ingest Stata data files and
-  use labels. The Stata files must have been saved with `saveold XX, version(11)` to be ingestible. Produces a nice pdf output and a DDI-Codebook `.xml` file. Windows software. Free for use, and each researcher can use it.
+  use labels. The Stata files must have been saved with `saveold XX, version(11)` to be ingestible. Produces a nice pdf output and a DDI-Codebook `.xml` file, see example at Harvard Dataverse: [Replication Data for: Leadership and Incentives](https://doi.org/10.7910/DVN/I5GXB3). 
+  Windows software. Free for use, and each researcher can use it.
 - [Colectica](https://colectica.com/): A commercial enterprise that sells both lightweight [Colectica for Excel](https://colectica.com/software/colecticaforexcel/)
   and the more heavy duty (and more expensive) [Colectiva Designer](https://colectica.com/software/designer/). These tools can ingest Stata data files, use
   labels from those data files and write pdf and DDI-Lifecycle `.xml`files. Windows software. The full-blown Designer is more polished and up-to-date than Nesstar, but it is costly, at $59/user per month.
