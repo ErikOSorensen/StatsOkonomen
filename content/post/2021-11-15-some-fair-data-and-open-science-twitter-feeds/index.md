@@ -25,3 +25,4 @@ List may be extended on occasion.
 - [Open Science Community Amsterdam](https://twitter.com/OSCAmsterdam)
 - [NumFOCUS](https://twitter.com/NumFOCUS)
 - [Center for Open Science](https://twitter.com/OSFramework)
+- [rOpenSci](https://twitter.com/rOpenSci)
