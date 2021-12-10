@@ -7,7 +7,7 @@ output: html_document
 
 # Contact information
 Department of Economics, NHH Norwegian School of Economics, Helleveien 30, 
-N-5045 Bergen, Norway. Mobile: (+47) 93 44 22 89. <erik.sorensen@nhh.no>
+N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 # Current positions
 
