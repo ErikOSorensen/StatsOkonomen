@@ -5,6 +5,10 @@ date: "2021-11-09"
 output: html_document 
 ---
 
+# Contact information
+Department of Economics, NHH Norwegian School of Economics, Helleveien 30, 
+N-5045 Bergen, Norway. Mobile: (+47) 93 44 22 89. <erik.sorensen@nhh.no>
+
 # Current positions
 
 - Professor of economics at the [Department of Economics, NHH Norwegian School of Economics](https://www.nhh.no/en/departments/economics/), (co-)Principal Investigator at [Centre for Experimental Research on Fairness, Inequality, and Rationality (FAIR)](https://www.nhh.no/en/research-centres/fair/).
@@ -18,9 +22,6 @@ output: html_document
 - Post.doc at the EU-RTN Microdata, Department of Economics, VU University Amsterdam (Feb 2007-Feb 2009).
 - Juniorprofessor für Angewandte Ökonometrie, Department of Economics, University of Mannheim (Aug 2006-Feb 2007).
 
-# Contact information
-Department of Economics, NHH Norwegian School of Economics, Helleveien 30, 
-N-5045 Bergen, Norway. Mobile: (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 # Publications
 - [Solidarity and Fairness in Times of Crisis](https://doi.org/10.1016/j.jebo.2021.03.017). With Alexander W. Cappelen, Ranveig Falch, and Bertil Tungodden. Published in **Journal of Economic Behavior & Organization**, 186(1), 1-11, 2021. Github repo: https://github.com/FAIR-NHH/mmnyt
