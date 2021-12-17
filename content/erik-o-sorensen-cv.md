@@ -55,7 +55,7 @@ Data and SI: https://doi.org/10.7910/DVN/I5GXB3
 - [The Neighbourhood is not what it used to be](https://doi.org/10.1111/j.1468-0297.2006.01053.x). With Oddbjørn Raaum and Kjell G. Salvanes. Published in **Economic Journal**, 116(1), 200-222, 2006.
 - [The Impact of a Primary School Reform on Educational Stratification: A Norwegian Study of Neighbour and School Mate Correlations](http://hdl.handle.net/11250/162854). With Oddbjørn Raaum and Kjell G. Salvanes. Published in **Swedish Economic Policy Review**, 10(2), 143-170, 2003.
 
-# Other writings
+## Other writings
 - [What Do You Owe Your Neighbor? The Pandemic Might Change Your Answer](https://www.nytimes.com/interactive/2020/04/16/opinion/coronavirus-inequality-solidarity-poll.html). Published online at **The New York Times**. With Alexander W. Cappelen, Ranveig Falch, Bertil Tungodden and Gus Wezerek.
 - [Moral Appeals Can Help Reduce Tax Evasion](https://hbr.org/2017/07/research-moral-appeals-can-help-reduce-tax-evasion). Published online at **Harvard Business Review**. With Kristina M. Bott, Alexander W. Cappelen and Bertil Tungodden. 
 - [Rettferdighet på hjernen](https://www.magma.no/rettferdighet-pa-hjernen). Published in **Magma** 2014, (2), 34-39. With Alexander W. Cappelen and Bertil Tungodden.
