@@ -28,7 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/ErikOSorensen"
     weight = 30
 [[menu.main]]
-    name = "ORCiD"
+    name = "ORCID"
     url = "https://orcid.org/0000-0002-7155-4188"
     weight = 25
 [[menu.main]]
