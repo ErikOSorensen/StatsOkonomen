@@ -1,7 +1,7 @@
 ---
 title: "Erik Ø. Sørensen"
 author: "Erik Ø. Sørensen"
-date: "2021-11-09"
+date: "2022-01-11"
 output: html_document 
 ---
 
@@ -24,7 +24,7 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 
 # Publications
-- [Global evidence on the selfish rich inequality hypothesis](https://www.pnas.org/content/119/3/e2109690119). With Ingvild Almås, Alexander W. Cappelen, and Bertil Tungodden. Published in **Proceedings of the National Academy of Sciences**, 119(3), e2109690119, 2022. [Public data at Harvard Dataverse](https://doi.org/10.7910/DVN/ZEGFIT). Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5656923.svg)](https://doi.org/10.5281/zenodo.5656923). 
+- [Global evidence on the selfish rich inequality hypothesis](https://doi.org/10.1073/pnas.2109690119). With Ingvild Almås, Alexander W. Cappelen, and Bertil Tungodden. Published in **Proceedings of the National Academy of Sciences**, 119(3), e2109690119, 2022. [Public data at Harvard Dataverse](https://doi.org/10.7910/DVN/ZEGFIT). Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5656923.svg)](https://doi.org/10.5281/zenodo.5656923). 
 - [Solidarity and Fairness in Times of Crisis](https://doi.org/10.1016/j.jebo.2021.03.017). With Alexander W. Cappelen, Ranveig Falch, and Bertil Tungodden. Published in **Journal of Economic Behavior & Organization**, 186(1), 1-11, 2021. Github repo: https://github.com/FAIR-NHH/mmnyt
 - [Choice and personal responsibility: What is a morally relevant choice?](https://doi.org/10.1162/rest_a_01010) With Alexander W. Cappelen, Sebastian Fest, and Bertil Tungodden. Forthcoming in **Review of Economics and Statistics**. Replication package: [https://doi.org/10.7910/DVN/HXZOCG](https://doi.org/10.7910/DVN/HXZOCG)
 - [You’ve got mail: A randomized field experiment on tax evasion](https://doi.org/10.1287/mnsc.2019.3390). With Kristina Bott, Alexander W. Cappelen, and Bertil Tungodden. Published in **Management Science**. 66(7), 2801–2819, 2020.
