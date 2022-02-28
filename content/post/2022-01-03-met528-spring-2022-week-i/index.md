@@ -58,7 +58,7 @@ in view of the exam.
 5. **Statistical and scientific practice**
     -  * Milton Friedman (1953). The Methodology of Positive Economics. Excerpt from **Essays in Positive Economics**, University of Chicago Press. Reprinted in **Readings in The Philosophy of Social Science** (ed: Michael Martin and Lee C. McIntyre, MIT Press, 1994), page 647-660.
     - Dale J. Poirier (1988). [Frequentist and Subjectivist Perspectives on the Problems of Model Building in Economics](http://www.jstor.org/stable/1942744). Journal of Economic Perspectives, 2(1): 121-144.
-    -  John H. Cochrane (1989). [The Sensitivity of Tests of the Intertemporal Allocation of Consumption to Near-Rational Alternatives](https://www.jstor.org/stable/1806848). American Economic Review, 79(3): 319-337.
+    - * John H. Cochrane (1989). [The Sensitivity of Tests of the Intertemporal Allocation of Consumption to Near-Rational Alternatives](https://www.jstor.org/stable/1806848). American Economic Review, 79(3): 319-337.
     - John P.A. Ioannidis (2005). [Why Most Published Research Findings Are False](http://dx.doi.org/10.1371/journal.pmed.0020124). PLoS Med, 2(8): 696-701.
     - * Abel Brodeur, Mathias Lé, Marc Sangnier and Yanos Zylberberg (2016). [Star Wars: The Empirics Strike Back](https://www.aeaweb.org/articles?id=10.1257/app.20150044), American Economic Journal: Applied Economics, 8(1): 1-32.
     -  Christensen, Garret, and Edward Miguel (2018). [Transparency, Reproducibility, and the Credibility of Economics Research](https://www.aeaweb.org/articles?id=10.1257/jel.20171350). Journal of Economic Literature, 56(3): 920-80.
