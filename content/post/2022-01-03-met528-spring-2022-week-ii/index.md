@@ -48,7 +48,6 @@ only for their contents, but for the different approaches to writing intellectua
     -  Conley, John P., and Ali Sina Onder (2014). [The Research Productivity of New PhDs in Economics: The Surprisingly High Non-success of the Successful](https://www.aeaweb.org/articles?id=10.1257/jep.28.3.205). Journal of Economic Perspectives, 28(3): 205-16.
     - Arjo Klamer (2014). The culture of academic economics. In **The Economics of Economists: Institutional Setting, Individual Incentives and Future Prospects**. Edited by A. Lanteri and J. Vromen. Cambridge University Press.
     -  Sarsons, Heather. 2017. [Recognition for Group Work: Gender Differences in Academia](https://www.aeaweb.org/articles?id=10.1257/aer.p20171126). American Economic Review, 107(5): 141-45.
-    - Pascaline Dupas, Alicia Sasser Modestino, Muriel Niederle, Justin Wolfers, and the Seminar Dynamics Collective (2021). [Gender and the Dynamics of Economics Seminars](https://web.stanford.edu/~pdupas/Gender&SeminarDynamics.pdf), mimeo, Stanford University.
 4. **The politics of science**
     -  Jeffrey Brainard (2021). [Open access takes flight](https://science.sciencemag.org/content/371/6524/16), Science, 371(6524): 16-20.
     - Karen E.C. Levy and David Merritt Johns (2016). [When open data is a Trojan Horse: The weaponization of transparency in science and governance](https://journals.sagepub.com/doi/10.1177/2053951715621568), Big Data and Society, 3(1): 1-6.
