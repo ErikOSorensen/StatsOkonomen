@@ -8,7 +8,7 @@ categories:
 tags: []
 ---
 
-As of 2022-01-03:
+As of 2022-02-25:
 
 # Lectures second week
 
@@ -28,6 +28,8 @@ to cover for this part of the course.
 For readings not linked to below, I'll do my best to make the 
 readings available at the start of the course. 
 
+Readings marked with an asterisk are considered particularly important material
+in view of the exam (TBC).
 
 1. **Economists making things happen**
     -  * Michel Callon (2007). What Does It Mean to Say That Economics Is Performative? Chapter 11, p. 311-357 of **Do Economists make Markets** (ed by MacKenzie, Muniesa and Siu), Princeton University Press.
