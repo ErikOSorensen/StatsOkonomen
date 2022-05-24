@@ -29,7 +29,7 @@ to see you in August!
 - Instructor: Justin Valasek
 - email: <justin.valasek@nhh.no>
 - office: D222
-- lectures: Week 33 (Aug 15--19), two daily sessions. 
+- lectures: Week 33 (Aug 15--19), two daily sessions: 1015-1200 and 1415-1400 in Karl Borch Auditorium. 
 
 ## Outline
 For some of you this will be a review (again, the course is not mandatory), and
@@ -71,7 +71,7 @@ Peter Berck, "Economists’ Mathematical Manual", Springer 1999.
 - Instructor: Erik Ø. Sørensen
 - email: <erik.sorensen@nhh.no>
 - office E228
-- lectures: Week 34 (Aug 22--26), two daily sessions.
+- lectures: Week 34 (Aug 22--26), two daily sessions: 1015-1200 and 1415-1400 in Karl Borch Auditorium.
 
 ## Outline
 The plan is to go through all of the basics of probability and statistics - not to introduce
