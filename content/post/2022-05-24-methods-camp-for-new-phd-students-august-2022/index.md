@@ -1,7 +1,7 @@
 ---
 title: Methods Camp for new PhD students (August 2022)
 author: Erik
-date: '2022-05-24'
+date: '2022-08-16'
 slug: methods-camp-for-new-phd-students-august-2022
 categories: []
 tags: []
