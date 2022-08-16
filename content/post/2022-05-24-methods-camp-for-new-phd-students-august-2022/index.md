@@ -16,7 +16,7 @@ deals with general mathematical tools: Calculus, Analysis, and Linear Algebra. T
 is more specific and deals with with probability and statistics. 
 
 Participation in the Methods Camp is voluntary, but all SAM economics students are expected
-to sit a 3 hour exam immediately after the camp in order to evaluate if some further
+to sit a 3 hour exam on **Monday August 29, 0900-1200** in order to evaluate if some further
 tutoring is necessary.  
 
 If you plan to take part in this course, please [fill out this brief survey](https://forms.gle/vkbV96xXr8i8d1j3A) such
