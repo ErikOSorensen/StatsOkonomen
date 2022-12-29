@@ -1,0 +1,43 @@
+---
+title: pppindexr
+author: Erik Ø. Sørensen
+date: '2022-12-29'
+slug: pppindexr
+categories: []
+tags: []
+---
+
+I have published an R package to github. It provides
+functions to work with international comparisons
+of real incomes (Geary Khamis, EKS, and CCD real
+income indices). 
+
+See the website here: https://erikosorensen.github.io/pppindexr/index.html
+
+Here is how it is installed:
+
+```{r message=FALSE, warning=FALSE}
+# install.packages("devtools")
+devtools::install_github("ErikOSorensen/pppindexr")
+```
+
+It comes with the Neary (2004) data installed, and here is how to calculate the 
+three supplied indices for the 60 countries in Neary's paper, listing a random
+sample of countries:
+
+```{r}
+library(pppindexr)
+P <- Neary2004 |> dplyr::select(p1:p11)
+Q <- Neary2004 |> dplyr::select(q1:q11)
+Neary2004$eks <- eks(P,Q)
+Neary2004$gk <- ygk(P,Q,
+                    pop = Neary2004$pop1980, 
+                    min_scale = TRUE)
+Neary2004$ccd <- ccd(P,Q)
+Neary2004 |> dplyr::sample_n(10) |> 
+  dplyr::select(country, eks, ccd, gk) |>
+  dplyr::arrange(eks) |>
+  knitr::kable(digits=3) 
+```
+
+

@@ -1,0 +1,106 @@
+---
+title: pppindexr
+author: Erik Ø. Sørensen
+date: '2022-12-29'
+slug: pppindexr
+categories: []
+tags: []
+---
+
+
+
+<p>I have published an R package to github. It provides
+functions to work with international comparisons
+of real incomes (Geary Khamis, EKS, and CCD real
+income indices).</p>
+<p>See the website here: <a href="https://erikosorensen.github.io/pppindexr/index.html" class="uri">https://erikosorensen.github.io/pppindexr/index.html</a></p>
+<p>Here is how it is installed:</p>
+<pre class="r"><code># install.packages(&quot;devtools&quot;)
+devtools::install_github(&quot;ErikOSorensen/pppindexr&quot;)</code></pre>
+<p>It comes with the Neary (2004) data installed, and here is how to calculate the
+three supplied indices for the 60 countries in Neary’s paper, listing six
+of the low income countries:</p>
+<pre class="r"><code>library(pppindexr)
+P &lt;- Neary2004 |&gt; dplyr::select(p1:p11)
+Q &lt;- Neary2004 |&gt; dplyr::select(q1:q11)
+Neary2004$eks &lt;- eks(P,Q)
+Neary2004$gk &lt;- ygk(P,Q,
+                    pop = Neary2004$pop1980, 
+                    min_scale = TRUE)
+Neary2004$ccd &lt;- ccd(P,Q)
+Neary2004 |&gt; dplyr::sample_n(10) |&gt; 
+  dplyr::select(country, eks, ccd, gk) |&gt;
+  dplyr::arrange(eks) |&gt;
+  knitr::kable(digits=3) </code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="left">country</th>
+<th align="right">eks</th>
+<th align="right">ccd</th>
+<th align="right">gk</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Senegal</td>
+<td align="right">2.442</td>
+<td align="right">2.438</td>
+<td align="right">2.229</td>
+</tr>
+<tr class="even">
+<td align="left">Botswana</td>
+<td align="right">3.658</td>
+<td align="right">3.676</td>
+<td align="right">3.283</td>
+</tr>
+<tr class="odd">
+<td align="left">Honduras</td>
+<td align="right">4.079</td>
+<td align="right">4.051</td>
+<td align="right">3.663</td>
+</tr>
+<tr class="even">
+<td align="left">El Salvador</td>
+<td align="right">4.804</td>
+<td align="right">4.824</td>
+<td align="right">4.403</td>
+</tr>
+<tr class="odd">
+<td align="left">Philippines</td>
+<td align="right">5.891</td>
+<td align="right">5.907</td>
+<td align="right">5.184</td>
+</tr>
+<tr class="even">
+<td align="left">Korea</td>
+<td align="right">6.679</td>
+<td align="right">6.834</td>
+<td align="right">6.429</td>
+</tr>
+<tr class="odd">
+<td align="left">Paraguay</td>
+<td align="right">7.576</td>
+<td align="right">7.554</td>
+<td align="right">6.687</td>
+</tr>
+<tr class="even">
+<td align="left">Finland</td>
+<td align="right">22.089</td>
+<td align="right">22.000</td>
+<td align="right">19.351</td>
+</tr>
+<tr class="odd">
+<td align="left">Austria</td>
+<td align="right">26.636</td>
+<td align="right">26.607</td>
+<td align="right">23.267</td>
+</tr>
+<tr class="even">
+<td align="left">Canada</td>
+<td align="right">34.171</td>
+<td align="right">34.033</td>
+<td align="right">29.280</td>
+</tr>
+</tbody>
+</table>
