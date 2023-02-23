@@ -25,7 +25,7 @@ that we know a bit about how many students there will be and something about you
 to see you in August!
 
 
-# Math part 
+# Math week 
 
 - Instructor: Justin Valasek
 - email: <justin.valasek@nhh.no>
@@ -67,7 +67,7 @@ Peter Berck, "Economists’ Mathematical Manual", Springer 1999.
         - Quadratic form, Definiteness of matrix, Lagrangean, Kuhn-Tucker theorem, Bordered Hessian, Quasi-concavity
 
 
-# Probability and Statistics
+# Probability and Statistics week
 
 - Instructor: Erik Ø. Sørensen
 - email: <erik.sorensen@nhh.no>
