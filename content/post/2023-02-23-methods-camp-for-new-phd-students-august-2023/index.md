@@ -14,7 +14,7 @@ Methods Camp is a two-week intensive course to get all incoming PhD students
 in economics to ensure that everyone are familiar with some technical
 tools before the main courses start. There are two week-long and separate parts: The first
 deals with general mathematical tools: Calculus, Analysis, and Linear Algebra. The second part
-is more specific and deals with with probability and statistics. 
+is more specific and deals with probability and statistics. 
 
 Participation in the Methods Camp is voluntary, but all SAM economics students are expected
 to sit a 3 hour exam on **a date and time to be determined** in order to evaluate if some further
