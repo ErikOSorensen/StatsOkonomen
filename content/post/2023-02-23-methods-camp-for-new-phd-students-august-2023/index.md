@@ -30,7 +30,7 @@ to see you in August!
 - Instructor: Justin Valasek
 - email: <justin.valasek@nhh.no>
 - office: D222
-- lectures: Week 33 (Aug 14--18), two daily sessions: 1015-1200 and 1415-1400 in Karl Borch Auditorium. 
+- lectures: Week 33 (Aug 14--18), two daily sessions: 1015-1200 and 1415-1400 in Karl Borch Auditorium (exception: Wednesday 2023-08-16 will be in Auditorium Q). 
 
 ## Outline
 For some of you this will be a review (again, the course is not mandatory), and
