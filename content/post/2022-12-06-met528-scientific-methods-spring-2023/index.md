@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Last updated: 2023-01-09. 
+Last updated: 2023-03-06 (fixed exam and termpaper dates). 
 
 The course is divided into two parts. The first part concern philosophy of science and scientific-internal questions, the second part discusses scientific practice from external perspectives: Historical, ethical, political, sustainability, and the sociology of scientific practice.
 
@@ -18,7 +18,7 @@ The aim is that students should know and discuss the most common arguments made 
 Starting spring 2023, MET528 will be given in weekly lectures. 
 We will meet in **Auditorium F**, every **Tuesday morning** throughout the
 semester, from 0815 to 1000. First day of lecturing is January 10, last day is April 18.
-There is no lecture April 4.
+There is no lecture March 28 or April 4.
 
 # Evaluation
 
@@ -28,7 +28,8 @@ are expected to present their topic to the class at an early stage. For course a
 (1) active participation in class, (2) the presentation of term paper topic and (3) 
 an acceptable term paper is required.
 
-There will also be a written exam (tentatively in the week June 12-16) to 
+The deadline of the term paper is **May 2**.
+There will also be a written exam (**June 12**) to 
 test understanding of the written material. 
 
 # Readings
