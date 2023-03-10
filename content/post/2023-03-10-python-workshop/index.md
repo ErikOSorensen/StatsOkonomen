@@ -46,7 +46,7 @@ on their computer such that it is possible to actively follow the workshop.
 3. **Building simple data structures**. Friday 2023-03-24 at 0900-1100 in FAIR-1. Building larger structures depend on breaking things
 down (more smaller pieces) but also bundling different pieces of data together (fewer but larger pieces). Running example: How to bundle numbers
 into vectors and matrices for simple linear algebra operations.
-4. **What are "libraries"" and how are they useful**. Friday 2023-03-24 at 1330-1530 in FAIR-1. Looking at the examples from sessions 1-3, is it possible
+4. **What are "libraries" and how are they useful**. Friday 2023-03-24 at 1330-1530 in FAIR-1. Looking at the examples from sessions 1-3, is it possible
 to rely on the work of experts such that we can write more succinct and efficient code? Yes! We'll look at some of the popular libraries that would
 have been very useful for solving the example tasks from the workshop.
 
