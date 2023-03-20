@@ -6,6 +6,7 @@ slug: python-workshop
 categories: []
 tags: []
 ---
+(Schedule-change on 2023-03-20 so as not to crash with the emerging researcher seminar series.)
 
 
 Python is one of the most popular general purpose programming languages. 
@@ -43,10 +44,13 @@ on their computer such that it is possible to actively follow the workshop.
 
 1. **Introduction**. Thursday 2023-03-23 at 0900-1100 in FAIR-1. Getting started with Python, basic syntax. Motivating example: How to get Python to solve general nonlinear equations of one variable.
 2. **Input and output**. Thursday 2023-03-23 at 1330-1530 in FAIR-1. How to read and write data from disk. Running example: How to read data from an experiment, match participants, draw payments and write payment file to disk.
-3. **Building simple data structures**. Friday 2023-03-24 at 0900-1100 in FAIR-1. Building larger structures depend on breaking things
+3. **Building simple data structures**. Friday 2023-03-24 at 1330-1530 in FAIR-1. Building larger structures depend on breaking things
 down (more smaller pieces) but also bundling different pieces of data together (fewer but larger pieces). Running example: How to bundle numbers
 into vectors and matrices for simple linear algebra operations.
-4. **What are "libraries" and how are they useful**. Friday 2023-03-24 at 1330-1530 in FAIR-1. Looking at the examples from sessions 1-3, is it possible
+
+At a later occasion (to be determined), we will follow up with a session on 
+
+- **What are "libraries" and how are they useful**. Looking at the examples from sessions 1-3, is it possible
 to rely on the work of experts such that we can write more succinct and efficient code? Yes! We'll look at some of the popular libraries that would
 have been very useful for solving the example tasks from the workshop.
 
