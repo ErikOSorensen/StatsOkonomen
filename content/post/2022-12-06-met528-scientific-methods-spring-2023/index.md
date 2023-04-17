@@ -68,7 +68,7 @@ attached to a reading is of no consequence.
     - Deborah Tollefsen (2014). Social Ontology. In Cartwright and Montuschi, chapter 5, p 85-101.
     - Helen Longino (2014). Individuals or Populations? In Cartwright and Montuschi, chapter 6, p 102-120.
     - \* Joseph Heath (2005). [Methodological Individualism](https://plato.stanford.edu/entries/methodological-individualism/). *The Stanford Encyclopedia of Philosophy* (Spring 2005 Edition), Edward N. Zalta (ed.)
-    - Kevin Hoover (2009) Microfoundations and the Ontology of Macroeconomics. in Harold Kincaid and Donald Ross, editors, *Oxford Handbook of the Philosophy of Economic Science**. Oxford: Oxford University Press, 2009; ch. 14, pp. 386-409.
+    - \* Kevin Hoover (2009) Microfoundations and the Ontology of Macroeconomics. in Harold Kincaid and Donald Ross, editors, *Oxford Handbook of the Philosophy of Economic Science**. Oxford: Oxford University Press, 2009; ch. 14, pp. 386-409.
 4. 2023-01-31. **Causality**    
     - Nancy Cartwright (2014). Causal Inference. In Cartwright and Montuschi, chapter 16, p 308-326.
     - \* Paul W. Holland (1986). [Statistics and Causal Inference](https://www.jstor.org/stable/2289064). Journal of American Statistical Association, 81(396): 945-960.
