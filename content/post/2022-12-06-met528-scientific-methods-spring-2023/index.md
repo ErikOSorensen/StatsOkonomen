@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Last updated: 2023-04-17. 
+Last updated: 2023-04-17 (added '\*'s to readings). 
 
 The course is divided into two parts. The first part concern philosophy of science and scientific-internal questions, the second part discusses scientific practice from external perspectives: Historical, ethical, political, sustainability, and the sociology of scientific practice.
 
@@ -18,7 +18,7 @@ The aim is that students should know and discuss the most common arguments made 
 Starting spring 2023, MET528 will be given in weekly lectures. 
 We will meet in **Auditorium F**, every **Tuesday morning** throughout the
 semester, from 0815 to 1000. First day of lecturing is January 10, last day is April 18.
-There is no lecture April 4.
+There is no lecture March 28 or April 4.
 
 # Evaluation
 
@@ -28,7 +28,8 @@ are expected to present their topic to the class at an early stage. For course a
 (1) active participation in class, (2) the presentation of term paper topic and (3) 
 an acceptable term paper is required.
 
-There will also be a written exam (June 12th) to 
+The deadline of the term paper is **May 2**.
+There will also be a written exam (**June 12**) to 
 test understanding of the written material. 
 
 # Readings
@@ -93,9 +94,15 @@ only for their contents, but for the different approaches to writing intellectua
     -  Montesinos, Hugo & Brice, Brandon. (2019). [The Era of Evidence](https://www.researchgate.net/publication/318600096_The_Era_of_Evidence). 
     - Schwalbe, Ulrich and Paul Walker (2001). [Zermelo and the Early History of Game Theory](https://doi.org/10.1006/game.2000.0794) Games and Economic Behavior, 34(1), 123-137.
 9. 2023-03-07. **The social science of science**
+<<<<<<< HEAD
     - \* Fourcade, Marion, Etienne Ollion, and Yann Algan (2015). [The Superiority of Economists](https://www.aeaweb.org/articles?id=10.1257/jep.29.1.89). Journal of Economic Perspectives, 29(1): 89-114.
     - John Gibson (2018). [The Micro-Geography of Academic Research: How Distinctive is Economics?](https://doi.org/10.1111/sjpe.12271), Scottish Journal of Political Economy, 68: 467-484.
     - \* Robert Schultz and Anna Stansbury (2022). [Socioeconomic diversity of economics PhDs](https://www.piie.com/publications/working-papers/socioeconomic-diversity-economics-phds). Working paper.
+=======
+    - Fourcade, Marion, Etienne Ollion, and Yann Algan (2015). [The Superiority of Economists](https://www.aeaweb.org/articles?id=10.1257/jep.29.1.89). Journal of Economic Perspectives, 29(1): 89-114.
+    - John Gibson (2021). [The Micro-Geography of Academic Research: How Distinctive is Economics?](https://doi.org/10.1111/sjpe.12271), Scottish Journal of Political Economy, 68: 467-484.
+    - Robert Schultz and Anna Stansbury (2022). [Socioeconomic diversity of economics PhDs](https://www.piie.com/publications/working-papers/socioeconomic-diversity-economics-phds). Working paper.
+>>>>>>> 5d8d72a1336c075a2e22a626153ead79a6fd7ec3
     -  Conley, John P., and Ali Sina Onder (2014). [The Research Productivity of New PhDs in Economics: The Surprisingly High Non-success of the Successful](https://www.aeaweb.org/articles?id=10.1257/jep.28.3.205). Journal of Economic Perspectives, 28(3): 205-16.
     - Arjo Klamer (2014). The culture of academic economics. In *The Economics of Economists: Institutional Setting, Individual Incentives and Future Prospects*. Edited by A. Lanteri and J. Vromen. Cambridge University Press.
     -  \* Sarsons, Heather (2017). [Recognition for Group Work: Gender Differences in Academia](https://www.aeaweb.org/articles?id=10.1257/aer.p20171126). American Economic Review, 107(5): 141-45.
