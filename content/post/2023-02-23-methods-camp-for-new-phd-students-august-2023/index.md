@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-as of 2023-02-23: Still somewhat tentative, but the dates have been confirmed. 
+as of 2023-07-24.
 
 Methods Camp is a two-week intensive course to get all incoming PhD students
 in economics to ensure that everyone are familiar with some technical
@@ -25,12 +25,12 @@ that we know a bit about how many students there will be and something about you
 to see you in August!
 
 
-# Math week 
+# Math (week 1)
 
 - Instructor: Justin Valasek
 - email: <justin.valasek@nhh.no>
 - office: D222
-- lectures: Week 33 (Aug 14--18), two daily sessions: 1015-1200 and 1415-1400 in Karl Borch Auditorium (exception: Wednesday 2023-08-16 will be in Auditorium Q). 
+- lectures: Week 33 (Aug 14--18), two daily sessions: 1015-1200 and 1415-1400 in Karl Borch Auditorium (exception: Wednesday 2023-08-16 will be in Auditorium Q, and there is no afternoon session on Friday because of reception organized by the Vice Rector). 
 
 ## Outline
 For some of you this will be a review (again, the course is not mandatory), and
@@ -67,7 +67,7 @@ Peter Berck, "Economists’ Mathematical Manual", Springer 1999.
         - Quadratic form, Definiteness of matrix, Lagrangean, Kuhn-Tucker theorem, Bordered Hessian, Quasi-concavity
 
 
-# Probability and Statistics week
+# Probability and Statistics (week 2)
 
 - Instructor: Erik Ø. Sørensen
 - email: <erik.sorensen@nhh.no>
@@ -79,7 +79,8 @@ The plan is to go through all of the basics of probability and statistics - not 
 topics that are unfamiliar to most new PhD students, but introduce a bit more of the
 formal notation than new students traditionally have been familiar with. 
 
-**Textbook**: A very compact book that covers everything is Oliver Linton's [Probability, Statistics and Econometrics](https://www.amazon.com/Probability-Statistics-Econometrics-Oliver-Linton-dp-0128104953/dp/0128104953/). A few additional readings will be made available. 
+**Textbook**: There is no required textbook, but a suggestion of a book that covers everything is Oliver Linton's [Probability, Statistics and Econometrics](https://www.amazon.com/Probability-Statistics-Econometrics-Oliver-Linton-dp-0128104953/dp/0128104953/). 
+A set of compact notes and a few additional readings will be made available. 
 
 ## List of topics:
 
