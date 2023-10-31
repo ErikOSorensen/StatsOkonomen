@@ -1,7 +1,7 @@
 ---
 title: "Erik Ø. Sørensen"
 author: "Erik Ø. Sørensen"
-date: "2023-10-25"
+date: "2023-10-31"
 output: html_document 
 ---
 
@@ -24,7 +24,7 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 
 # Publications
--  [The Development Gap in Economic Rationality of Future Elites.](https://doi.org/10.1016/j.geb.2023.10.005)  With Alexander W. Cappelen, Shachar Kariv, and Bertil Tungodden. Forthcoming in **Games and Economic Behavior**. [Open data at Harvard Dataverse](https://doi.org/10.7910/DVN/CCODET). Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8367567.svg)](https://doi.org/10.5281/zenodo.8367567)
+-  [The Development Gap in Economic Rationality of Future Elites.](https://doi.org/10.1016/j.geb.2023.10.005)  With Alexander W. Cappelen, Shachar Kariv, and Bertil Tungodden. Published  in **Games and Economic Behavior**, 140, 866-878. [Open data at Harvard Dataverse](https://doi.org/10.7910/DVN/CCODET). Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8367567.svg)](https://doi.org/10.5281/zenodo.8367567)
 - [Choice and personal responsibility: What is a morally relevant choice?](https://doi.org/10.1162/rest_a_01010) With Alexander W. Cappelen, Sebastian Fest, and Bertil Tungodden. Published in **Review of Economics and Statistics**, 104(5), 1110-1119, 2022. Replication package: [https://doi.org/10.7910/DVN/HXZOCG](https://doi.org/10.7910/DVN/HXZOCG)
 - [Global evidence on the selfish rich inequality hypothesis](https://doi.org/10.1073/pnas.2109690119). With Ingvild Almås, Alexander W. Cappelen, and Bertil Tungodden. Published in **Proceedings of the National Academy of Sciences**, 119(3), e2109690119, 2022. [Public data at Harvard Dataverse](https://doi.org/10.7910/DVN/ZEGFIT). Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5656923.svg)](https://doi.org/10.5281/zenodo.5656923). 
 - [Solidarity and Fairness in Times of Crisis](https://doi.org/10.1016/j.jebo.2021.03.017). With Alexander W. Cappelen, Ranveig Falch, and Bertil Tungodden. Published in **Journal of Economic Behavior & Organization**, 186(1), 1-11, 2021. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7489056.svg)](https://doi.org/10.5281/zenodo.7489056)
