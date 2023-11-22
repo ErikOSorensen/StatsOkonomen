@@ -1,0 +1,38 @@
+---
+title: Testing a blog post with Python
+author: Erik Ø. Sørensen
+date: '2023-11-22'
+slug: testing-a-blogpost-with-python
+---
+
+
+
+<p>These posts are written in Blogdown using Rstudio, which makes it possible to write R code and have it evaluated.
+It would be neat if it was also possible to have calculations made using Python create output in the same
+format. Apparently, that should be possible with the <code>reticulate</code> package.</p>
+<p>An attempt: a piece of code from the Python Workshop last spring:</p>
+<pre class="python"><code>def find_root(f, lower, upper, eps=1e-6):
+    assert sign(f(lower)) != sign(f(upper)), &quot;No guarantee of solution in this interval!&quot;
+    l, u = lower, upper
+    while ( abs( f(u) - f(l) ) &gt; eps):
+        midpoint = (l+u)/2
+        y = f(midpoint)
+        if sign(y)==sign(f(l)):
+            l = midpoint
+        else:
+            u = midpoint
+        # print(l, u, y)
+    return midpoint, (l, u)
+def sign(x):
+    if x&lt;0.0:
+        return -1
+    else:
+        return 1</code></pre>
+<p>If it works, it should be possible to find solutions to nonlinear equation, such as
+<span class="math display">\[ e^{2x} = 4.\]</span></p>
+<pre class="python"><code>import math
+def test_function(x):
+  return math.exp(2*x)-4
+solution, bounds = find_root(test_function, 0, 1)
+print(f&quot;The estimated solution is x={solution}, and x must be in the interval {bounds}.&quot;)</code></pre>
+<pre><code>## The estimated solution is x=0.6931470632553101, and x must be in the interval (0.6931470632553101, 0.6931471824645996).</code></pre>
