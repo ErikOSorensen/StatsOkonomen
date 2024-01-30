@@ -29,7 +29,7 @@ are expected to present their topic to the class at an early stage. For course a
 (1) active participation in class, (2) the presentation of term paper topic and (3) 
 an acceptable term paper is required.
 
-The deadline of the term paper is **2023-05-03**. There will also be a written exam on **2023-06-20** to 
+The deadline of the term paper is **2024-05-03**. There will also be a written exam on **2024-06-20** to 
 test understanding of the written material. 
 
 # Readings
