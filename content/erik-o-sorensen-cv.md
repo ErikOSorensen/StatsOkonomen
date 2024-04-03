@@ -12,11 +12,10 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 # Current positions
 
 - Professor of economics at the [Department of Economics, NHH Norwegian School of Economics](https://www.nhh.no/en/departments/economics/), (co-)Principal Investigator at [Centre for Experimental Research on Fairness, Inequality, and Rationality (FAIR)](https://www.nhh.no/en/research-centres/fair/). FAIR compliance officer and head of the Data Infrastructure Unit.
-- Member of [Teknisk beregningsutvalg for klima/Norwegian commission for estimating emission effects of climate measures](https://tbuklima.no/).
 
 
 ## Past positions
-
+- Member of [Teknisk beregningsutvalg for klima/Norwegian commission for estimating emission effects of climate measures](https://tbuklima.no/) (2018-2023).
 - Professor II (part-time) at the Department of Economics, University of Oslo, member of the center for [Equality, Social Organization, and Performance](https://www.sv.uio.no/esop/english/) (2009-2016).
 - Associate professor of economics at the Department of Economics, NHH Norwegian School of Economics (2009-2012).
 - Post.doc at the EU-RTN Microdata, Department of Economics, VU University Amsterdam (Feb 2007-Feb 2009).
