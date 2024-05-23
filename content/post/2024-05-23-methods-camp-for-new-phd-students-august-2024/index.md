@@ -34,42 +34,49 @@ to see you in August!
 - Instructor: Fred Schroyen
 - email: <fred.schroyen@nhh.no>
 - office: D230
-- lectures: Week 33 (Aug 12--16)
+- lectures: Week 33 (Aug 12--16). 0915-1100 and 1315-1500 (room to be decided).
 
 ## Outline
-For some of you this will be a review (again, the course is not mandatory), and
-some of you will be seeing this material for the first time. My main goal with
-the class is to make everyone comfortable with: (1) the basic mathematical tools
-we use in economic theory, and (2) constructing simple proofs. I am assuming
-everyone is familiar with basic calculus (derivatives and integrals), and this course
-will focus on giving you "deeper" conceptual insight into math.
 
-**Textbook**: The main textbook is Carl P. Simon and Lawrence Blume, 
-"Mathematics for Economists", Norton 1994. However, this book is more of a reference
-than a pedagogical text, so I will also be providing handouts and notes. Again, if
-something is new to you, the best way to learn is by doing problems!
 
-Some other standard textbooks in Mathematical Economics: Alpha C. Chiang,
-"Fundamental Methods of Mathematical Economics", McGraw Hill, 1983. Walter
-Rudin, "Principles of Mathematical Analysis", McGraw Hill. A. MasCollel, M.D.
-Whinston, and J.R. Green, "Microeconomic Theory" (math appendix). A more 
-advanced books: Rakesh V. Vohra, "Advanced mathematical economics", Routledge,
-2005. A.N. Kolmogorov, "Introductory Real Analysis", Courier Dover 
-Publications, 1975. A more dense, dictionary like book: Knut Sydsæter, Arne Strøm,
-Peter Berck, "Economists’ Mathematical Manual", Springer 1999.
+The mathematics camp consists of two parts.  The first part reviews a number of concepts and results from mathematics that can be regarded as the foundation for the mathematics that economists use.  For this part, a handout will be made available.  You are expected to read through the handout and to solve the exercises at the end.  We will not go through the handout in the lectures but refer to it regularly.
 
-## List of topics
+The handout covers the following topics:
 
-1. Elementary Analysis: Sets, numbers and proofs
-    - Proofs and logical arguments, Set theory: functions, relations, Numbers, Countability, Sequences, Convergence, Boundedness
-    - Limit, Continuity
-2. Linear Algebra
-    - Linear mappings and matrices, Vectors: addition, subtraction, inner product, rotation, Linear independence, Rank of a matrix, Determinant, Eigenvalues and eigenvectors, Diagonalization, Solving linear difference equations.
-3. Multivariate Calculus
-    - Open ball, Limit point, Continuity, Partial derivative, Total derivative, Gradient, Hessian, Differentiability and continuous differentiability, Implicit Function theorem, Introduction to Ordinary Differential equations
-    - Concavity and optimization
-        - Quadratic form, Definiteness of matrix, Lagrangean, Kuhn-Tucker theorem, Bordered Hessian, Quasi-concavity
+1. Vectors in Rn; 
+2. Supremum, infimum, maximum and minimum of a set of real numbers; 
+3. Functions in one and several variables; 
+4. Norm and metric in Rn; 
+5. Sequences in Rn ; 
+6. Open and closed sets; 
+7. Limit of a function; 
+8. Continuity of a function; 
+9. Compact sets; 
+10. Convex sets; 
+11. Matrices; 
+12. Linear dependency of vectors; 
+13. Determinant of a matrix; 
+14. Inverse of a matrix; 
+15. Derivatives and implicit derivatives; 
+16. Gradient, Jacobian and Hessian; 
+17. Inverse function and inverse function theorem; 
+18. Implicit function theorem.
 
+The second part, which the lectures are about, will cover the theory and techniques of optimization under side constraints, and related issues.  This part consists of the following topics:
+
+1. A "no-arbitrage"" argument of optimality; 
+2. Lagrange’s multiplier method; 
+3. Extensions of Lagrange’s theorem: the Kuhn-Tucker theorem; 
+4. Taylor expansions, approximations, and quadratic forms; 
+5. Concave and quasi-concave functions; 
+6. Second order conditions and comparative statics.
+
+The mathematics refresher course has a Canvas page where the handouts for the first and second part will be posted.  If you intend to take the course, send an email to fred.schroyen@nhh.no to get access to this Canvas page.    
+
+Good textbooks for the mathematics that economists make use of are:
+
+- Carl Simon and Lawrence Blume (1994) Mathematics for Economists (New York: Norton)
+- Avinash Dixit (1990) Optimization in Economic Theory (Oxford: Oxford University Press).
 
 # Probability and Statistics (week 2)
 
