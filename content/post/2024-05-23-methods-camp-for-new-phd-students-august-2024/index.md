@@ -34,7 +34,7 @@ to see you in August!
 - Instructor: Fred Schroyen
 - email: <fred.schroyen@nhh.no>
 - office: D230
-- lectures: Week 33 (Aug 12--16). 0915-1100 and 1315-1500 (room to be decided).
+- lectures: Week 33 (Aug 12--16). 0915-1100 and 1315-1500 (Aud I).
 
 ## Outline
 
