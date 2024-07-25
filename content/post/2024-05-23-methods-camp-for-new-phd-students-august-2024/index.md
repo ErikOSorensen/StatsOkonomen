@@ -10,7 +10,7 @@ tags: []
 
 
 
-as of 2024-05-23.
+Ss of 2024-07-25.
 
 Methods Camp is a two-week intensive course to get all incoming PhD students
 in economics to ensure that everyone are familiar with some technical
