@@ -19,7 +19,7 @@ deals with general mathematical tools: Calculus, Analysis, and Linear Algebra. T
 is more specific and deals with probability and statistics. 
 
 Participation in the Methods Camp is voluntary, but all PhD students at the Economics Department are expected
-to sit a 3 hour exam on 2024-08-26, in Karl Borch Auditorium, 1030-1200 in order to evaluate if some further
+to sit a 90 minutes exam on the probability/statistics part 2024-08-26, in Karl Borch Auditorium, 1030-1200 in order to evaluate if some further
 tutoring is necessary. One A4 sheet of paper with notes is allowed.
 
 If you plan to take part in this course, please [fill out this brief survey](https://forms.gle/E5mtDKQfTwDJvrya6) such
