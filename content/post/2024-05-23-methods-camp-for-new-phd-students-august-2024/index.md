@@ -10,7 +10,7 @@ tags: []
 
 
 
-As of 2024-07-25.
+As of 2024-08-25.
 
 Methods Camp is a two-week intensive course to get all incoming PhD students
 in economics to ensure that everyone are familiar with some technical
@@ -19,8 +19,8 @@ deals with general mathematical tools: Calculus, Analysis, and Linear Algebra. T
 is more specific and deals with probability and statistics. 
 
 Participation in the Methods Camp is voluntary, but all PhD students at the Economics Department are expected
-to sit a 3 hour exam on **a date and time to be determined** in order to evaluate if some further
-tutoring is necessary.  
+to sit a 3 hour exam on 2024-08-26, in Karl Borch Auditorium, 1030-1200 in order to evaluate if some further
+tutoring is necessary. One A4 sheet of paper with notes is allowed.
 
 If you plan to take part in this course, please [fill out this brief survey](https://forms.gle/E5mtDKQfTwDJvrya6) such
 that we know a bit about how many students there will be and something about your background. Looking forward
