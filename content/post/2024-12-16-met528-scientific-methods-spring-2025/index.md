@@ -18,7 +18,7 @@ The aim is that students should know and discuss the most common arguments made 
 
 MET528 will be given in weekly lectures. 
 We will meet in **Auditorium I**, every **Tuesday afternoon** throughout the
-semester, from 1415 to 1600. First day of lecturing is January 7, 
+semester, from 1415 to 1600. First day of lectures is January 7, 
 last day is April 8.
 
 # Evaluation
@@ -29,8 +29,8 @@ are expected to present their topic to the class at an early stage. For course a
 (1) active participation in class, (2) the presentation of term paper topic and (3) 
 an acceptable term paper is required.
 
-The deadline of the term paper is **2024-05-05**. There will also be a written exam on **2024-06-20** to 
-test understanding of the written material. 
+The deadline of the term paper is **2024-05-05**. There will also be a written 
+exam in the latter half of June to test understanding of the written material. 
 
 # Readings
 
