@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-Last updated: 2024-12-16, after coordination with the department. 
+Last updated: 2025-04-08.
 
 The course is divided into two parts. The first part concern philosophy of science and scientific-internal questions, the second part discusses scientific practice from external perspectives: Historical, ethical, political, sustainability, and the sociology of scientific practice.
 
@@ -29,8 +29,8 @@ are expected to present their topic to the class at an early stage. For course a
 (1) active participation in class, (2) the presentation of term paper topic and (3) 
 an acceptable term paper is required.
 
-The deadline of the term paper is **2024-05-05**. There will also be a written 
-exam in the latter half of June to test understanding of the written material. 
+The deadline of the term paper is **2025-05-05**. There will also be a written 
+exam  **2025-06-11** to test understanding of the written material. 
 
 # Readings
 
