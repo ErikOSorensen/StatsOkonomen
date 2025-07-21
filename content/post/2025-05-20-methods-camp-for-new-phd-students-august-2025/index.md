@@ -1,7 +1,7 @@
 ---
 title: Methods camp for new PhD students, August 2025
 author: 'Erik Ø. Sørensen'
-date: '2025-05-20'
+date: '2025-07-21'
 slug: methods-camp-for-new-phd-students-august-2025
 categories: []
 tags: []
