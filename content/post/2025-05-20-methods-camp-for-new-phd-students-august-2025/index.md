@@ -84,7 +84,23 @@ Good textbooks for the mathematics that economists make use of are:
 - Instructor: Erik Ø. Sørensen
 - email: <erik.sorensen@nhh.no>
 - office E228
-- lectures: Week 34 (Aug 18--22), two daily sessions.
+- lectures: Week 34 (Aug 18--22), two daily sessions of 2x45 minutes.
+  - Monday Aug 18:
+    - 1015: Lab2
+    - 1415: Aud F (B107)
+  - Tuesday Aug 19:
+    - 1015: Lab2
+    - 1415: Lab1
+  - Wednesday Aug 20:
+    - 1015: Lab2
+    - 1415: Lab2
+  - Thursday Aug 21:
+    - 1015: Lab2
+    - 1415: Lab2
+  - Friday Aug 22:
+    - 1015: Lab2
+    - 1415: Lab2
+
 
 ## Outline
 The plan is to go through all of the basics of probability and statistics - not to introduce
