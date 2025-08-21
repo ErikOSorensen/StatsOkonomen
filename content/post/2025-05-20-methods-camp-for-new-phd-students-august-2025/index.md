@@ -1,7 +1,7 @@
 ---
 title: Methods camp for new PhD students, August 2025
 author: 'Erik Ø. Sørensen'
-date: '2025-07-21'
+date: '2025-08-21'
 slug: methods-camp-for-new-phd-students-august-2025
 categories: []
 tags: []
@@ -14,14 +14,10 @@ The camp is divided into two one-week modules:
 - The first module deals with general mathematical tools: Calculus, Analysis, and Linear Algebra. 
 - The second module is more specific and deals with probability and statistics. 
 
-Participation in the Methods Camp is voluntary, but all PhD students at the Economics Department are expected
-to sit a 90 minutes exam on the probability/statistics part on TBA in order to evaluate if some further
-tutoring is necessary. One A4 sheet of paper with notes is allowed.
-
-Participation is voluntary, but all new PhD students in the Economics Department are expected to sit a 90-minute exam on 
-the Probability and Statistics part (date TBA). This exam helps assess whether additional tutoring might be beneficial. 
-You are allowed to bring one A4 sheet of notes to the exam.
-
+Participation in the Methods Camp is voluntary, but there is a 90 minutes 
+exam on the probability/statistics part Monday August 25, from 1015--1145 in Auditorium I,
+in order to evaluate if any further
+tutoring is necessary. One A4 sheet of paper with notes and a standard calculator is allowed.
 
 If you plan to take part in this course, please [fill out this brief survey](https://forms.gle/3D8zrEMTZoJGujAVA) such
 that we know a bit about how many students there will be and something about your background. Looking forward
