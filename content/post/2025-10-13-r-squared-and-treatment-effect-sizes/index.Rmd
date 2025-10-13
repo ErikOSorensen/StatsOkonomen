@@ -17,7 +17,7 @@ I wrote this for my another purpose, and thought that I might as well make it pu
 
 For a treatment-control contrast, let's examine the regression
 model
-$$ y = \alpha + \beta x_i + \epsilon_i,$$
+$$ y_i = \alpha + \beta x_i + \epsilon_i,$$
 with $var(\epsilon_i)=\sigma^2$ and $x_i$ being a 0/1 indicator variable
 for treatment (1) vs control (0). Assume that the proportion of 
 treated units is $p$. Now the $R^2$ can be calculated as
