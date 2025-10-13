@@ -1,0 +1,49 @@
+---
+title: R-squared and treatment effect sizes
+author: ''
+date: '2025-10-13'
+slug: r-squared-and-treatment-effect-sizes
+categories: []
+tags: []
+---
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(tidyverse)
+```
+
+
+I wrote this for my another purpose, and thought that I might as well make it public. 
+
+For a treatment-control contrast, let's examine the regression
+model
+$$ y = \alpha + \beta x_i + \epsilon_i,$$
+with $var(\epsilon_i)=\sigma^2$ and $x_i$ being a 0/1 indicator variable
+for treatment (1) vs control (0). Assume that the proportion of 
+treated units is $p$. Now the $R^2$ can be calculated as
+
+$$ R^2 = \frac{var(\widehat{y}()}{var(y)} = \frac{\beta^2 p(1-p)}{\beta^2 p(1-p) + \sigma^2}.$$
+Expressing the treatment effect in standardized form (Glass $\Delta$), 
+we can write $\Delta=\beta/\sigma$, and then we have 
+$$R^2 = \frac{\Delta^2 p(1-p)}{\Delta^2 p(1-p) + 1}.$$
+If we also assume that the treatment and control arms are equally large ($p=1/2$),
+we get 
+$$ R^2 = \frac{\Delta^2}{\Delta^2 + 4}.$$
+
+We can draw this for reasonable values:
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+deltas <- seq(0,0.5,0.01)
+ddf <- data.frame(delta = deltas, 
+              r2 = deltas^2/(deltas^2 + 4))
+ddf |> ggplot(aes(x=delta, y = r2)) +
+  geom_line() +
+  theme_minimal() +
+  labs(x = "Standardized effect size (Glass \u0394)",
+       y = "R-squared",
+       caption = "Assuming homogeneous variance and equally sized treatment and control arms.")
+```
+
+
+We see that even for treatment effect sizes that are quite respectable, the amount
+of explained variance is quite limited. For a $0.2\sigma$ effect, $R^2\approx 0.01$.
