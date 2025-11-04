@@ -5,6 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.139.3"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_BLOGDOWN_POST_RELREF = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
