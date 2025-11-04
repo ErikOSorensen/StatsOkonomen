@@ -1,10 +1,15 @@
-baseurl = "/"
+baseURL = "https://statsokonomen.no/"
 languageCode = "en-us"
 title = "Erik Ø. Sørensen - Statsøkonomen"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
