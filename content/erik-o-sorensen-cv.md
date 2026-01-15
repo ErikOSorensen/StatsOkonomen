@@ -23,7 +23,7 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 
 # Publications
-- The talent paradox: Why is it fair to reward talent but not luck? With Björn Bartling, Alexander W. Cappelen, Ingvild L. Skarpeid, and Bertil Tungodden. Forthcoming in **European Economic Review**, Special issue in honor of Nora Szech.
+- [The talent paradox: Why is it fair to reward talent but not luck?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5059438) With Björn Bartling, Alexander W. Cappelen, Ingvild L. Skarpeid, and Bertil Tungodden. Forthcoming in **European Economic Review**, Special issue in honor of Nora Szech.
 - [Linking Social and Personal Preferences: Theory and Experiment](https://doi.org/10.1086/739832) With William R. Zame, Bertil Tungodden, Shachar Kariv, and Alexander W. Cappelen. Forthcoming in **Journal of Political Economy**.
 - [Attitudes to inequality: preferences and beliefs](https://doi.org/10.1093/ooec/odae001) With Ingvild Almås, Alexander W. Cappelen and Bertil Tungodden. Published as part of the *Deaton Review*, in **Oxford Open Economics**, 3(i1), i64-i69, 2024.
 - [The Development Gap in Economic Rationality of Future Elites.](https://doi.org/10.1016/j.geb.2023.10.005)  With Alexander W. Cappelen, Shachar Kariv, and Bertil Tungodden. Published  in **Games and Economic Behavior**, 140, 866-878, 2023. [Open data at Harvard Dataverse](https://doi.org/10.7910/DVN/CCODET). Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8367567.svg)](https://doi.org/10.5281/zenodo.8367567)
