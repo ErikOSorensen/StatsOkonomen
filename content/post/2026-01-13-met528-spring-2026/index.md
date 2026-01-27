@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-Last updated: 2026-01-13.
+Last updated: 2026-01-27.
 
 The course is divided into two parts. The first part concern philosophy of science 
 and scientific-internal questions, the second part discusses scientific practice
@@ -78,7 +78,7 @@ As of January 2026, the list of papers is tentative.
 4. 2026-02-03. **Causality**    
     - Nancy Cartwright (2014). Causal Inference. In Cartwright and Montuschi, chapter 16, p 308-326.
     - \* Paul W. Holland (1986). [Statistics and Causal Inference](https://www.jstor.org/stable/2289064). Journal of American Statistical Association, 81(396): 945-960.
-    - \* James J. Heckman and Rodrigo Pinot (2023). [Econometric Causality: The Central Role of Thought Experiments](https://doi.org/10.3386/w31945) NBER Working paper 31945.
+    - \* James J. Heckman and Rodrigo Pinto (2024). [Econometric Causality: The Central Role of Thought Experiments](https://doi.org/10.1016/j.jeconom.2024.105719) Journal of Econometrics, 243(1-2), 105719.
 5. 2026-02-10. **Statistics: measurement, prediction and inference** 
     - \* Milton Friedman (1953). The Methodology of Positive Economics. Excerpt from *Essays in Positive Economics*, University of Chicago Press. Reprinted in *Readings in The Philosophy of Social Science* (ed: Michael Martin and Lee C. McIntyre, MIT Press, 1994), page 647-660.
     - \* John H. Cochrane (1989). [The Sensitivity of Tests of the Intertemporal Allocation of Consumption to Near-Rational Alternatives](https://www.jstor.org/stable/1806848). American Economic Review, 79(3): 319-337.
