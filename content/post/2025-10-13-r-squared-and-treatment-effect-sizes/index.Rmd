@@ -25,8 +25,8 @@ $$ \lim_{n\rightarrow\infty}R^2 = \frac{\beta^2 p(1-p)}{\beta^2 p(1-p) + \sigma^
 Expressing the treatment effect in standardized form (Glass $\Delta$), 
 we can write $\Delta=\beta/\sigma$, and then we have 
 $$\lim_{n\rightarrow\infty}R^2  = \frac{\Delta^2 p(1-p)}{\Delta^2 p(1-p) + 1}.$$
-If we also assume that the treatment and control arms are equally large ($p=1/2$),
-we get 
+If we also assume that the treatment and control arms are equally large ($p=1/2$, which gives us the largest 
+possible $R^2$ given the treatment effect), we get $p(1-p)=1/4$ and  
 $$ \lim_{n\rightarrow\infty}R^2 = \frac{\Delta^2}{\Delta^2 + 4}.$$
 
 We can draw this for different values of $\Delta$:
