@@ -23,7 +23,7 @@ for treatment (1) vs control (0). Assume that the proportion of
 treated units is $p$. Now, since the OLS estimate is consistent (randomization), the limit of $R^2=var(\widehat{y})/var(y)$ can be calculated to be 
 $$ \lim_{n\rightarrow\infty}R^2 = \frac{\beta^2 p(1-p)}{\beta^2 p(1-p) + \sigma^2}.$$
 Expressing the treatment effect in standardized form (Glass $\Delta$), 
-we can write $\Delta=\beta/\sigma$, and then we have 
+we can write $\Delta=\beta/\sigma$, and then we have
 $$\lim_{n\rightarrow\infty}R^2  = \frac{\Delta^2 p(1-p)}{\Delta^2 p(1-p) + 1}.$$
 If we also assume that the treatment and control arms are equally large ($p=1/2$, which gives us the largest 
 possible $R^2$ given the treatment effect), we get $p(1-p)=1/4$ and  
