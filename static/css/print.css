@@ -1,8 +1,9 @@
 @media print {
-  /* Page setup */
+  /* Page setup: zero @page margin eliminates browser headers/footers,
+     body padding provides the actual content margins instead */
   @page {
     size: A4;
-    margin: 18mm 20mm;
+    margin: 0;
   }
 
   /* Reset screen layout constraints */
@@ -10,6 +11,8 @@
     font-size: 11pt;
     line-height: 1.4;
     color: #000;
+    margin: 0;
+    padding: 18mm 20mm;
   }
 
   .wrapper {
@@ -25,9 +28,11 @@
     color: #000;
   }
 
-  /* Hide the article title (redundant — CV content has its own headings) */
+  /* Name as CV heading */
   .article-title {
-    display: none;
+    font-size: 20pt;
+    margin: 0 0 4pt;
+    text-align: center;
   }
 
   /* Hide date, reading time, header, footer */
