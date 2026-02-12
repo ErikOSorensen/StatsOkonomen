@@ -1,9 +1,8 @@
 @media print {
-  /* Page setup: zero @page margin eliminates browser headers/footers,
-     body padding provides the actual content margins instead */
+  /* Page setup */
   @page {
     size: A4;
-    margin: 0;
+    margin: 18mm 20mm;
   }
 
   /* Reset screen layout constraints */
@@ -11,8 +10,6 @@
     font-size: 11pt;
     line-height: 1.4;
     color: #000;
-    margin: 0;
-    padding: 18mm 20mm;
   }
 
   .wrapper {
