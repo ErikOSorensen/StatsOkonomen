@@ -25,6 +25,7 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 
 # Publications
+- Fairness in Winner-Take-All Competitions. With Björn Bartling, Alexander W. Cappelen, Mathias Ekström, and Bertil Tungodden. Forthcoming in **Review of Economics and Statistics.**
 - [The talent paradox: Why is it fair to reward talent but not luck?](https://doi.org/10.1016/j.euroecorev.2026.105268) With Björn Bartling, Alexander W. Cappelen, Ingvild L. Skarpeid, and Bertil Tungodden. **European Economic Review**, Special issue in honor of Nora Szech, 185, 105268, 2026. Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18267990.svg)](https://doi.org/10.5281/zenodo.18267990)
 - [Linking Social and Personal Preferences: Theory and Experiment](https://doi.org/10.1086/739832) With William R. Zame, Bertil Tungodden, Shachar Kariv, and Alexander W. Cappelen. Forthcoming in **Journal of Political Economy**. Replication code: [![DOI](https://zenodo.org/badge/226669406.svg)](https://doi.org/10.5281/zenodo.18596272)
 - [Attitudes to inequality: preferences and beliefs](https://doi.org/10.1093/ooec/odae001) With Ingvild Almås, Alexander W. Cappelen and Bertil Tungodden. Published as part of the *Deaton Review*, in **Oxford Open Economics**, 3(i1), i64-i69, 2024.
