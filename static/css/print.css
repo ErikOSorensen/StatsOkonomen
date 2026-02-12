@@ -1,0 +1,123 @@
+@media print {
+  /* Page setup */
+  @page {
+    size: A4;
+    margin: 18mm 20mm;
+  }
+
+  /* Reset screen layout constraints */
+  body {
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #000;
+  }
+
+  .wrapper {
+    overflow: visible;
+  }
+
+  .content {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #000;
+  }
+
+  /* Hide the article title (redundant — CV content has its own headings) */
+  .article-title {
+    display: none;
+  }
+
+  /* Hide date, reading time, header, footer */
+  .header,
+  .footer,
+  .article-date,
+  .article-duration {
+    display: none;
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 14pt;
+    margin-top: 14pt;
+    margin-bottom: 4pt;
+    padding-bottom: 2pt;
+    border-bottom: 0.5pt solid #999;
+    page-break-after: avoid;
+  }
+
+  h2 {
+    font-size: 12pt;
+    margin-top: 10pt;
+    margin-bottom: 3pt;
+    page-break-after: avoid;
+  }
+
+  h3, h4, h5, h6 {
+    font-size: 11pt;
+    margin-top: 8pt;
+    margin-bottom: 2pt;
+    page-break-after: avoid;
+  }
+
+  /* Paragraphs */
+  .article-content p {
+    margin: 3pt 0 6pt;
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Lists (publications, positions) */
+  .article-content ul,
+  .article-content ol {
+    margin: 2pt 0 6pt;
+    padding-left: 16pt;
+  }
+
+  .article-content li {
+    margin-bottom: 4pt;
+    page-break-inside: avoid;
+  }
+
+  /* Links: remove decorative styling, use simple underline */
+  .article-content a {
+    color: #000;
+    text-decoration: none;
+    border-bottom: none;
+    box-shadow: none;
+    background: none;
+  }
+
+  /* Hide Zenodo badge images in print - they don't render well */
+  .article-content a img[src*="zenodo"] {
+    display: none;
+  }
+
+  /* Images in general */
+  img {
+    max-width: 100%;
+    page-break-inside: avoid;
+  }
+
+  /* Avoid page breaks right after headings */
+  h1 + *,
+  h2 + *,
+  h3 + * {
+    page-break-before: avoid;
+  }
+
+  /* Bold journal names stand out enough for print */
+  strong {
+    font-weight: bold;
+  }
+
+  /* Code blocks if any */
+  pre, code {
+    font-size: 9pt;
+    background: none;
+    border: 0.5pt solid #ddd;
+    page-break-inside: avoid;
+  }
+}

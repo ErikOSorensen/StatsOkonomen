@@ -38,6 +38,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     weight = 50
 [params]
     description = "A website built through Hugo and blogdown."
+    customCSS = ["css/custom-fonts.css", "css/print.css"]
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
