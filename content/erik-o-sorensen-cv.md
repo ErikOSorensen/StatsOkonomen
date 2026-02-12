@@ -1,6 +1,5 @@
 ---
 title: "Erik Ø. Sørensen"
-author: "Erik Ø. Sørensen"
 date: "2026-02-12"
 output: html_document 
 ---
