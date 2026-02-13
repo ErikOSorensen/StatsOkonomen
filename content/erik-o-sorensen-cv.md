@@ -67,6 +67,6 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 - [Rettferdighet på hjernen](https://www.magma.no/rettferdighet-pa-hjernen). Published in **Magma** 2014, (2), 34-39. With Alexander W. Cappelen and Bertil Tungodden.
 - [Rettferdig flaks](https://www.samfunnsokonomene.no/content/uploads/2014/05/Samfunns%C3%B8konomen-nr-6-2013.pdf). Published in **Samfunnsøkonomen** 127(6), 43-44 2013. With Alexander W. Cappelen and Bertil Tungodden.
 - [Et valg i blinde? Norske ungdommers kjennskap til ulikheter i arbeidsmarkedet før de gjør sine utdanningsvalg](https://www.magma.no/et-valg-i-blinde). Published in **Magma** 15(5), 45-51 2012. With Kjell G. Salvanes and  Ingvild Almås.
-- [Lærer økonomer av sine feil?](https://www.sv.uio.no/esop/forskning/aktuelt/i-media/dokumenter/dokumenter-2012/sorensen_bt_30072012.pdf) Published in **Bergens Tidende**, 30. juli 2012.
+- [Lærer økonomer av sine feil?](https://www.nhh.no/nhh-bulletin/artikkelarkiv/eldre-saker/2012/juli/larer-okonomer-av-sine-feil/) Published in **Bergens Tidende**, 30. juli 2012.
 - Sultkatastrofer og nødhjelp. Published in Fordeling og vekst i fattige land, (ed. Rune Jansen Hagen and Karl R. Pedersen). Fagbokforlaget, 1999. With Bertil Tungodden.
-- Krysseie og eierkonsentrasjon i det norsk-svenske kraftmarkedet. SNF-rapport 15/98. With Nils-Henrik M von der Fehr, Tore Nilssen and Lars Sørgard.
+- [Krysseie og eierkonsentrasjon i det norsk-svenske kraftmarkedet](https://www.nb.no/maken/item/URN:NBN:no-nb_digibok_2011092608124/open) SNF-rapport 15/98. With Nils-Henrik M. von der Fehr, Tore Nilssen and Lars Sørgard.
