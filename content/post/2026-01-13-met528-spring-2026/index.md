@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-Last updated: 2026-01-27.
+Last updated: 2026-03-17.
 
 The course is divided into two parts. The first part concern philosophy of science 
 and scientific-internal questions, the second part discusses scientific practice
@@ -34,7 +34,7 @@ are expected to present their topic to the class at an early stage. For course a
 an acceptable term paper is required.
 
 The deadline of the term paper is **2026-05-04**. There will also be a written 
-exam  on a date **TBA** to test understanding of the written material. 
+exam  on  **2026-06-08** to test understanding of the written material. 
 
 # Readings
 
