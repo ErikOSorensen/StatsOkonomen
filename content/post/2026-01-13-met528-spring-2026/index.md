@@ -117,7 +117,7 @@ only for their contents, but for the different approaches to writing intellectua
     - \* Sharon Crasnow (2014). Feminist Standpoint Theory. In Cartwright and Montuschi, Chapter 8, p 145-161.
     - Heather Douglas (2014). Values in Social Science. In Cartwright and Montuschi, Chapter 9, p 162-182.
 13. 2026-04-07. **Research ethics**
-    - \* [National guidelines for research ethics in the social sciences, law and humanities.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/guidelines-for-research-ethics-in-the-social-sciences-humanities-law-and-theology/) Given by the National Committee for Research Ethics in the Social Sciences and the Humanities (NESH) in 2021 (5th edition). English translation published 2022.
+    - \* [National guidelines for research ethics in the social sciences, law and humanities.](https://www.forskningsetikk.no/en/guidelines/social-sciences-and-humanities/guidelines-for-research-ethics-in-the-social-sciences-and-the-humanities/) Given by the National Committee for Research Ethics in the Social Sciences and the Humanities (NESH) in 2021 (5th edition). Revised 2023. English 2024.
     - Edward Asiedu, Dean Karlan, Monica P. Lambon-Quayefio and Christopher R. Udry (2021). [A Call for Structured Ethics Appendices in Social Science Papers](https://doi.org/10.1073/pnas.2024570118), Proceedings of the National Academies of Science, 118(29): e2024570118.
 14. 2025-04-14. **Interdisciplinarity and non-orthodox traditions**
     - Sophia Efstathiou and Zara Mirmalek (2014). Interdisciplinarity in Action.  In Cartwright and Montuschi, Chapter 12, p 233-248.
