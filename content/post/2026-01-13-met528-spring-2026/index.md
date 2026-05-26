@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-Last updated: 2026-03-17.
+Last updated: 2026-05-26.
 
 The course is divided into two parts. The first part concern philosophy of science 
 and scientific-internal questions, the second part discusses scientific practice
