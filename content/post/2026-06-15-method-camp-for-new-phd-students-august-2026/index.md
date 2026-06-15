@@ -17,7 +17,7 @@ The camp is divided into two one-week modules:
 Participation in the Methods Camp is voluntary, but there is a 90 minutes 
 exam on the probability/statistics part Monday August 24, details to be determined.
 in order to evaluate if any further
-tutoring is necessary. One A4 sheet of paper with notes and a standard calculator is allowed.
+tutoring is necessary.
 
 Looking forwardto see you in August!
 
