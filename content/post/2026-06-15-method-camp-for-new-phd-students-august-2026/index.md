@@ -19,7 +19,7 @@ exam on the probability/statistics part Monday August 24, details to be determin
 in order to evaluate if any further
 tutoring is necessary.
 
-Looking forwardto see you in August!
+Looking forward to seeing you in August!
 
 
 # Math (week 1)
