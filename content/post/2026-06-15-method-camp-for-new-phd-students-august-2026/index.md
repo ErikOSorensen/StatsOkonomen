@@ -91,7 +91,7 @@ Good textbooks for the mathematics that economists make use of are:
     - 1015: Aud G
     - 1415: Aud G
   - Thursday Aug 21:
-    - 0815: Aud G
+    - 0815: Lab2
   - Friday Aug 22:
     - 1015: Aud G
     - 1415: Aud G
