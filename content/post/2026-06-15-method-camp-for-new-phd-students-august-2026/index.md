@@ -30,7 +30,7 @@ Looking forward to seeing you in August!
 - email: <fred.schroyen@nhh.no>
 - office: D230
 - lectures: Each day of week 33 (Aug 10--14) in LAB1
-  - 0915-1100 and 1415-1500.
+  - 0915-1100 and 1315-1500.
 
 ## Outline
 
