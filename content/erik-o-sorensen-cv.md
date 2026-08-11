@@ -1,6 +1,6 @@
 ---
 title: "Erik Ø. Sørensen"
-date: "2026-06-01"
+date: "2026-08-11"
 output: html_document 
 ---
 
@@ -10,7 +10,8 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 # Current positions
 
-- Professor of economics at the [Department of Economics, NHH Norwegian School of Economics](https://www.nhh.no/en/departments/economics/), (co-)Principal Investigator at [Centre for Experimental Research on Fairness, Inequality, and Rationality (FAIR)](https://www.nhh.no/en/research-centres/fair/). 
+- Professor of economics and vice head, [Department of Economics, NHH Norwegian School of Economics](https://www.nhh.no/en/departments/economics/)
+- Co-Principal Investigator, [Centre for Experimental Research on Fairness, Inequality, and Rationality (FAIR)](https://www.nhh.no/en/research-centres/fair/)
 - FAIR compliance officer and head of the FAIR Data Infrastructure Unit.
 - Chair of the NHH Institutional Review Board.
 
@@ -24,10 +25,11 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 
 # Publications
+- Fairness Across the World. With Ingvild Almås, Alexander W. Cappelen and Bertil Tungodden. Forthcoming in **Quarterly Journal of Economics.** [Open data at Harvard Dataverse](https://doi.org/10.7910/DVN/IKA13C).
 - [Reproducibility and robustness of economics and political science research](https://doi.org/10.1038/s41586-026-10251-x). With Abel Brodeur, Derek Mikola, Nikolai Cook, and many others.  In **Nature** 652, 151–156. 2026.
 - [Fairness in Winner-Take-All Competitions](https://doi.org/10.1162/REST.a.1788). With Björn Bartling, Alexander W. Cappelen, Mathias Ekström, and Bertil Tungodden. Forthcoming in **Review of Economics and Statistics,** [replication package at Harvard Dataverse](https://doi.org/10.7910/DVN/EZBJDL).
 - [The talent paradox: Why is it fair to reward talent but not luck?](https://doi.org/10.1016/j.euroecorev.2026.105268) With Björn Bartling, Alexander W. Cappelen, Ingvild L. Skarpeid, and Bertil Tungodden. **European Economic Review**, Special issue in honor of Nora Szech, 185, 105268, 2026. Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18267990.svg)](https://doi.org/10.5281/zenodo.18267990)
-- [Linking Social and Personal Preferences: Theory and Experiment](https://doi.org/10.1086/739832) With William R. Zame, Bertil Tungodden, Shachar Kariv, and Alexander W. Cappelen. Published in **Journal of Political Economy**. 134(6), 1890-1930. Replication code: [![DOI](https://zenodo.org/badge/226669406.svg)](https://doi.org/10.5281/zenodo.18596272)
+- [Linking Social and Personal Preferences: Theory and Experiment](https://doi.org/10.1086/739832) With William R. Zame, Bertil Tungodden, Shachar Kariv, and Alexander W. Cappelen. Published in **Journal of Political Economy**. 134(6), 1890-1930. 2026. Replication code: [![DOI](https://zenodo.org/badge/226669406.svg)](https://doi.org/10.5281/zenodo.18596272)
 - [Attitudes to inequality: preferences and beliefs](https://doi.org/10.1093/ooec/odae001) With Ingvild Almås, Alexander W. Cappelen and Bertil Tungodden. Published as part of the *Deaton Review*, in **Oxford Open Economics**, 3(i1), i64-i69, 2024.
 - [The Development Gap in Economic Rationality of Future Elites.](https://doi.org/10.1016/j.geb.2023.10.005)  With Alexander W. Cappelen, Shachar Kariv, and Bertil Tungodden. Published  in **Games and Economic Behavior**, 140, 866-878, 2023. [Open data at Harvard Dataverse](https://doi.org/10.7910/DVN/CCODET). Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8367567.svg)](https://doi.org/10.5281/zenodo.8367567)
 - [Choice and personal responsibility: What is a morally relevant choice?](https://doi.org/10.1162/rest_a_01010) With Alexander W. Cappelen, Sebastian Fest, and Bertil Tungodden. Published in **Review of Economics and Statistics**, 104(5), 1110-1119, 2022. Replication package: [https://doi.org/10.7910/DVN/HXZOCG](https://doi.org/10.7910/DVN/HXZOCG)
