@@ -13,7 +13,7 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 - Professor of economics and vice head, [Department of Economics, NHH Norwegian School of Economics](https://www.nhh.no/en/departments/economics/)
 - Co-Principal Investigator, [Centre for Experimental Research on Fairness, Inequality, and Rationality (FAIR)](https://www.nhh.no/en/research-centres/fair/)
 - FAIR compliance officer and head of the FAIR Data Infrastructure Unit.
-- Chair of the NHH Institutional Review Board.
+- Head of the NHH Institutional Review Board.
 
 ## Past positions
 
