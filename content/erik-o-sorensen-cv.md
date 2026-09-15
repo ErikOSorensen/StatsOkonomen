@@ -25,7 +25,7 @@ N-5045 Bergen, Norway. (+47) 93 44 22 89. <erik.sorensen@nhh.no>
 
 
 # Publications
-- Fairness Across the World. With Ingvild Almås, Alexander W. Cappelen and Bertil Tungodden. Forthcoming in **Quarterly Journal of Economics.** [Open data at Harvard Dataverse](https://doi.org/10.7910/DVN/IKA13C).
+- [Fairness Across the World](https://doi.org/10.1093/qje/qjag044). With Ingvild Almås, Alexander W. Cappelen and Bertil Tungodden. Forthcoming in **Quarterly Journal of Economics.** [Open data at Harvard Dataverse](https://doi.org/10.7910/DVN/IKA13C).
 - [Reproducibility and robustness of economics and political science research](https://doi.org/10.1038/s41586-026-10251-x). With Abel Brodeur, Derek Mikola, Nikolai Cook, and many others.  In **Nature** 652, 151–156. 2026.
 - [Fairness in Winner-Take-All Competitions](https://doi.org/10.1162/REST.a.1788). With Björn Bartling, Alexander W. Cappelen, Mathias Ekström, and Bertil Tungodden. Forthcoming in **Review of Economics and Statistics,** [replication package at Harvard Dataverse](https://doi.org/10.7910/DVN/EZBJDL).
 - [The talent paradox: Why is it fair to reward talent but not luck?](https://doi.org/10.1016/j.euroecorev.2026.105268) With Björn Bartling, Alexander W. Cappelen, Ingvild L. Skarpeid, and Bertil Tungodden. **European Economic Review**, Special issue in honor of Nora Szech, 185, 105268, 2026. Replication code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18267990.svg)](https://doi.org/10.5281/zenodo.18267990)
