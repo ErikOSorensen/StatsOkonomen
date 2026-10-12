@@ -4,6 +4,7 @@ title = "Erik Ø. Sørensen - Statsøkonomen"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
+enableRobotsTXT = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 [markup]
@@ -37,7 +38,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     url = "https://scholar.google.com/citations?user=vV3i8C3IPygC&hl=en"
     weight = 50
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Erik Ø. Sørensen is a professor of economics at NHH Norwegian School of Economics, working on experimental economics, social preferences, fairness, and research software. Personal website, CV and blog (Statsøkonomen)."
+
+    [params.author]
+    name = "Erik Ø. Sørensen"
+    alternateNames = ["Erik Sørensen", "Erik O. Sorensen", "Erik Sorensen"]
+    email = "erik.sorensen@nhh.no"
+    jobTitle = "Professor of Economics"
+    affiliation = "NHH Norwegian School of Economics"
+    affiliationURL = "https://www.nhh.no/"
+    sameAs = [
+      "https://orcid.org/0000-0002-7155-4188",
+      "https://scholar.google.com/citations?user=vV3i8C3IPygC",
+      "https://github.com/ErikOSorensen",
+    ]
     customCSS = ["css/custom-fonts.css", "css/print.css"]
 
     # options for highlight.js (version, additional languages, and theme)

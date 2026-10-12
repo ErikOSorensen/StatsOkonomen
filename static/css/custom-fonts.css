@@ -1,11 +1,8 @@
-/* Source Serif 4 (body text) and Source Sans 3 (headings/UI) from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+/* Source Sans 3 (body text, headings and UI) from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap');
 
-body {
-  font-family: 'Source Serif 4', Georgia, serif;
-}
-
+body,
 h1, h2, h3, h4, h5, h6,
 .nav, .article-duration, .archive-item-link, .footer {
-  font-family: 'Source Sans 3', sans-serif;
+  font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif;
 }

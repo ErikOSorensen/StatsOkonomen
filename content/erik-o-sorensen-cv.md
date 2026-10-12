@@ -1,4 +1,6 @@
 ---
+description: "Curriculum vitae of Erik Ø. Sørensen, professor of economics at NHH Norwegian School of Economics: positions, publications, working papers, and research data."
+seotitle: "CV - Erik Ø. Sørensen, NHH Norwegian School of Economics"
 title: "Erik Ø. Sørensen"
 date: "2026-08-11"
 output: html_document 

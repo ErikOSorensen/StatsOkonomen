@@ -1,0 +1,103 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{{ hugo.Generator }}
+
+{{ $title := .Site.Title }}
+{{ if .Params.seotitle }}
+  {{ $title = .Params.seotitle }}
+{{ else if not .IsHome }}
+  {{ $title = printf "%s%s - %s" .Title (cond (isset .Params "subtitle") (printf " - %s" .Params.subtitle) "") .Site.Title }}
+{{ end }}
+
+{{ $description := .Site.Params.description }}
+{{ if not .IsHome }}
+  {{ with .Description }}
+    {{ $description = . }}
+  {{ else }}
+    {{ with .Summary }}
+      {{ $description = . | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace | truncate 160 }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $image := print "images/" .Site.Params.logo.url | absURL }}
+{{ with .Params.image }}{{ $image = . | absURL }}{{ end }}
+
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="author" content="{{ .Site.Params.author.name }}">
+{{ with .Keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ $image }}">
+{{ if and .IsPage (eq .Section "post") }}
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+{{ else if eq .RelPermalink "/about/" }}
+<meta property="og:type" content="profile">
+{{ else }}
+<meta property="og:type" content="website">
+{{ end }}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $description }}">
+
+{{ with .Site.Params.favicon }}
+  <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
+{{ end }}
+
+{{ with .OutputFormats.Get "RSS" }}
+<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+{{ end }}
+
+{{ $author := .Site.Params.author }}
+{{ $person := dict
+  "@type" "Person"
+  "@id" (printf "%s#person" ("/" | absURL))
+  "name" $author.name
+  "alternateName" $author.alternateNames
+  "url" ("/about/" | absURL)
+  "email" (printf "mailto:%s" $author.email)
+  "jobTitle" $author.jobTitle
+  "worksFor" (dict "@type" "CollegeOrUniversity" "name" $author.affiliation "url" $author.affiliationURL)
+  "sameAs" $author.sameAs
+}}
+{{ if or .IsHome (eq .RelPermalink "/about/") (eq .RelPermalink "/erik-o-sorensen-cv/") }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@graph" (slice
+    (merge $person (dict "image" $image))
+    (dict "@type" "WebSite" "@id" (printf "%s#website" ("/" | absURL)) "url" ("/" | absURL) "name" .Site.Title "description" .Site.Params.description "author" (dict "@id" (printf "%s#person" ("/" | absURL))))
+  )
+| jsonify | safeJS }}
+</script>
+{{ else if and .IsPage (eq .Section "post") }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "description" $description
+  "url" .Permalink
+  "mainEntityOfPage" .Permalink
+  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "author" $person
+  "image" $image
+| jsonify | safeJS }}
+</script>
+{{ end }}
+
+{{ partial "head_highlightjs" . }}
+<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" media="all">
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}" media="all">
+{{ range .Site.Params.customCSS }}
+<link rel="stylesheet" href="{{ . | relURL }}">
+{{ end }}
+{{ partial "head_custom" . }}
