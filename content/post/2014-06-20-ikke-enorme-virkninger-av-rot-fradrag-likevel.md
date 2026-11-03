@@ -2,6 +2,7 @@
 title: Ikke enorme virkninger av ROT fradrag likevel
 author: Erik Ø. Sørensen
 date: '2014-06-20'
+lang: nb
 slug: ikke-enorme-virkninger-av-rot-fradrag-likevel
 categories: []
 tags: []

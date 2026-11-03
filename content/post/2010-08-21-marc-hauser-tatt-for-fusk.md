@@ -2,6 +2,7 @@
 title: Marc Hauser tatt for fusk?
 author: Erik Ø. Sørensen
 date: '2010-08-21'
+lang: nb
 slug: marc-hauser-tatt-for-fusk
 categories: []
 tags: []

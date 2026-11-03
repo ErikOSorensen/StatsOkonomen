@@ -1,4 +1,4 @@
-baseURL = "https://statsokonomen.no/"
+baseURL = "https://www.statsokonomen.no/"
 languageCode = "en-us"
 title = "Erik Ø. Sørensen - Statsøkonomen"
 theme = "hugo-lithium"

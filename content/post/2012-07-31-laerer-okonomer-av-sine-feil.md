@@ -2,6 +2,7 @@
 title: Lærer økonomer av sine feil?
 author: Erik Ø. Sørensen
 date: '2012-07-31'
+lang: nb
 slug: laerer-okonomer-av-sine-feil
 categories: []
 tags:

@@ -2,6 +2,7 @@
 title: Politikkanalyse med utrolig overbevisning
 author: Erik Ø. Sørensen
 date: '2010-07-26'
+lang: nb
 slug: politikkanalyse-med-utrolig-overbevisning
 categories: []
 tags: []

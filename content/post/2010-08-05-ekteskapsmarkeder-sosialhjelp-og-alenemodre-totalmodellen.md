@@ -2,6 +2,7 @@
 title: Ekteskapsmarkeder, sosialhjelp og alenemødre - totalmodellen
 author: Erik Ø. Sørensen
 date: '2010-08-05'
+lang: nb
 slug: ekteskapsmarkeder-sosialhjelp-og-alenemodre-totalmodellen
 categories: []
 tags: []

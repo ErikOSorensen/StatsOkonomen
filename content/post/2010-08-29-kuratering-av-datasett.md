@@ -2,6 +2,7 @@
 title: Kuratering av datasett
 author: Erik Ø. Sørensen
 date: '2010-08-29'
+lang: nb
 slug: kuratering-av-datasett
 categories: []
 tags: []

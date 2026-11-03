@@ -2,6 +2,7 @@
 title: Er det egentlige klimaproblemet kulturelitens diskontering av framtida?
 author: Erik Ø. Sørensen
 date: '2010-07-23'
+lang: nb
 slug: er-det-egentlige-klimaproblemet-kulturelitens-diskontering-av-framtida
 categories: []
 tags:

@@ -2,6 +2,7 @@
 title: Ingen fusjon mellom NHH og UiB nå?
 author: Erik Ø. Sørensen
 date: '2014-08-30'
+lang: nb
 slug: ingen-fusjon-mellom-nhh-og-uib-naa
 categories: []
 tags: []

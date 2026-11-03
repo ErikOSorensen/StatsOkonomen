@@ -2,6 +2,7 @@
 title: 'Visvas: nødvendige kriser'
 author: Erik Ø. Sørensen
 date: '2010-07-26'
+lang: nb
 slug: visvas-nødvendige-kriser
 categories: []
 tags: []

@@ -2,6 +2,7 @@
 title: Om å tenke som en 12-åring
 author: Erik Ø. Sørensen
 date: '2014-09-29'
+lang: nb
 slug: om-aa-tenke-som-en-12-aaring
 categories: []
 tags: []

@@ -2,6 +2,7 @@
 title: Dagbladet og størrelsen på den svarte økonomien
 author: Erik Ø. Sørensen
 date: '2010-07-22'
+lang: nb
 slug: dagbladet-og-storrelsen-på-den-svarte-okonomien
 categories: []
 tags: []
